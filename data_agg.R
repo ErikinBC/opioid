@@ -1,62 +1,124 @@
 pckgs <- c('dplyr','tidyr','readr','magrittr','stringr','forcats','data.table','broom',
-           'ggplot2','cowplot','ggmap','ggh4x',
+           'ggplot2','cowplot','ggmap','ggh4x','ggrepel',
            'sf', 'rgdal','maptools')
 for (pp in pckgs) { library(pp,character.only=T,quietly = T,warn.conflicts = F)}
 
 dir_base <- getwd()
 dir_output <- file.path(dir_base, 'output')
+dir_figures <- file.path(dir_base, 'figures')
 
+
+###########################
 # ---- (1) LOAD DATA ---- #
 
 df_phu <- read_csv(file.path(dir_output, 'df_phu.csv'))
 df_deaths <- read_csv(file.path(dir_output, 'df_deaths.csv'))
-df_deaths
 
-# dat_agg = df_both.groupby('date').n_death.sum().reset_index()
-# dat_PHU_year = df_both.groupby(['year','PHU']).n_death.mean().reset_index()
-# dat_PHU_year = dat_PHU_year.assign(n_death=lambda x: np.round(x.n_death*12).astype(int))
-# 
-# dat_pop = df_both.groupby('PHU').population.mean().reset_index().sort_values('population',ascending=False)
-# dat_pop.population = dat_pop.population/1e4
-# dat_pop = dat_pop.reset_index(None,True)
-# dat_pop['pcat'] = pd.cut(dat_pop.population,[0,10,13,16,19,30,50,90,300])
-# # dat_pop.groupby(['pcat','PHU']).size().reset_index().rename(columns={0:'n'}).query('n>0')
-# # dat_pop.pcat.value_counts()
-# di_pcat = dict(zip(dat_pop.PHU,dat_pop.pcat))
-# dat_pop['icat'] = dat_pop.groupby('pcat').cumcount()
-# 
-# tmp = dat_PHU_year.merge(dat_pop)
-# tmp = tmp.assign(drate=lambda x: x.n_death/x.population*10)
-# tmp = tmp.melt(['year','PHU','pcat','icat'],['n_death','drate'],'msr')
-# tmp.pcat = cat_rev(tmp.pcat.values)
-# 
-# tmp2 = tmp.groupby(['pcat','PHU','msr']).value.max().reset_index().reset_index().query('value>0')
-# tmp2 = tmp2.merge(dat_pop).drop(columns='population')
-# tmp2 = tmp2.sort_values(['msr','pcat','icat'])
-# tmp2 = tmp2.merge(tmp2.groupby(['msr','pcat']).value.max().reset_index().rename(columns={'value':'mx'}),'left')
-# tmp2= tmp2.assign(y=lambda x: 0.9*(x.mx*(1-0.1*x.icat)), x=2012)
-# qq = 'County|Region|\\sHealth\\sDepartment|Services|City\\sof\\s|District|Public\\sHealth|\\sof|\\sand\\sEmergency'
-# tmp2.PHU = tmp2.PHU.str.replace(qq,'').str.strip()
-# tmp2.pcat = cat_rev(tmp2.pcat.values)
-# 
-# gg_all = (ggplot(tmp.query('msr=="n_death"'),aes(x='year',y='value',color='factor(icat)')) + 
-#             geom_line() + theme_bw() + labs(y='Opioid deaths') + 
-#             theme(axis_text_x=element_text(angle=45),axis_title_x=element_blank(),
-#                   subplots_adjust={'wspace':0.20}) + 
-#             ggtitle('Year Opioid deaths in Ontario') + 
-#             facet_wrap('~pcat',scales='free_y') + 
-#             guides(color=False) + 
-#             geom_text(aes(label='PHU',y='y',x='x'),data=tmp2.query('msr=="n_death"'),size=8) + 
-#             scale_x_continuous(breaks=list(range(2006,2021,2))) + 
-#             geom_vline(xintercept=2017,linetype='--'))
-# 
-# gg_rate = (ggplot(tmp.query('msr=="drate"'),aes(x='year',y='value',color='factor(icat)')) + 
-#              geom_line() + theme_bw() + labs(y='Opioid death rate') + 
-#              theme(axis_text_x=element_text(angle=45),axis_title_x=element_blank(),
-#                    subplots_adjust={'wspace':0.20}) + 
-#              ggtitle('Yearly Opioid death rates in Ontario') + 
-#              facet_wrap('~pcat') + 
-#              guides(color=False) + 
-#              geom_text(aes(label='PHU',y='y',x='x'),data=tmp2.query('msr=="drate"'),size=8) + 
-#              scale_x_continuous(breaks=list(range(2006,2021,2))) + 
-#              geom_vline(xintercept=2017,linetype='--'))
+######################################
+# ---- (2) PERFORM AGGREGATIONS ---- #
+
+# How we should stratify the population
+pcat_bins <- c(0,10,13,16,19,30,50,90,300)
+pcat_lbls <- str_c(str_c(pcat_bins[1:length(pcat_bins)-1],
+      pcat_bins[2:length(pcat_bins)],sep='-'),'K')
+pc <- 1e4  # Per capita denomiator
+
+# Total death and death-rate by month
+tot_deaths <- df_deaths %>% group_by(date) %>%
+  summarise(n_death=12*sum(n_death), pop=sum(population)/pc) %>% 
+  mutate(r_death=n_death/pop) %>% 
+  pivot_longer(c(n_death, r_death),names_to='msr') %>% 
+  dplyr::select(-pop) %>% arrange(msr,date)
+# and by year
+
+# PHU deaths by year
+phu_deaths_year <- df_deaths %>% group_by(year, PHU) %>%
+  summarise(n_death=12*mean(n_death), pop=mean(population)/pc)
+# Calculate the population category
+phu_pcat <- phu_deaths_year %>% group_by(PHU) %>%
+  summarise(pop=mean(pop))  %>% arrange(pop) %>% 
+  mutate(pcat = cut(x=pop,breaks=pcat_bins,labels = pcat_lbls)) %>% 
+  # group_by(pcat) %>% mutate(ridx=row_number()) %>% 
+  ungroup() %>% dplyr::select(-pop)
+# Rejoin
+phu_deaths_year <- phu_deaths_year %>% left_join(phu_pcat,by='PHU') %>% 
+  arrange(year,pcat) %>% 
+  mutate(r_death=12*n_death/pop) %>% ungroup %>% 
+  pivot_longer(c(n_death, r_death),names_to='msr') %>%  # Long-format 
+  arrange(msr,year,pcat)
+# Calculate the relative index for labels
+phu_txt_lbs <- phu_deaths_year %>%
+  filter(year==max(year)) %>% dplyr::select(-c(pop)) %>% 
+  mutate(year=min(phu_deaths_year$year)) %>%
+  arrange(msr,pcat,value) %>% 
+  group_by(msr,pcat) %>% 
+  mutate(ridx=row_number(),value=max(value)) %>% 
+  mutate(value=value*(1-0.75*(1-ridx/max(ridx)))) %>% ungroup
+
+tail(phu_txt_lbs)
+
+#######################
+# ---- (X) PLOTS ---- #
+
+di_msr <- c('n_death'='# Deaths', 'r_death'='Death Rate (per 100K)')
+
+# (i) Total monthly deaths
+for (msr in names(di_msr)) {
+  path <- file.path(dir_figures,str_c('total_',msr,'.png'))
+  tmp_gg <- filter(tot_deaths, msr == {{msr}}) %>% 
+    ggplot(aes(x=date,y=value)) + theme_bw() + 
+    geom_point(size=0.75) + geom_line(size=0.25,alpha=0.5) + 
+    labs(y=di_msr[msr]) + 
+    theme(axis.title.x = element_blank()) + 
+    ggtitle('Opioid deaths in Ontario')
+  save_plot(path, tmp_gg,base_height=3,base_width=4)
+}
+
+
+# (ii) Total yearly deaths by PHU (strata on pcat)
+for (msr in names(di_msr)) {
+  path <- file.path(dir_figures,str_c('phu_',msr,'.png'))
+  tmp_df1 <- filter(phu_deaths_year, msr == {{msr}})
+  tmp_df2 <-
+    filter(phu_txt_lbs, msr == {{msr}}) %>%
+    mutate(vmax=max(value)) %>% group_by(pcat) %>% 
+    mutate(value=ifelse(msr=='r_death',vmax*(1-0.75*(1-ridx/max(ridx))),value))
+  tmp_df1 <- tmp_df1 %>% left_join(dplyr::select(tmp_df2,-c(value,year)))
+  tmp_gg <- ggplot(tmp_df1,aes(x=year,y=value,color=factor(ridx))) + theme_bw()  + 
+    geom_point() + geom_line() + 
+    facet_wrap(~pcat,scales=ifelse(msr=='r_death','fixed','free_y'),nrow=2) + 
+    labs(y=di_msr[msr]) + 
+    theme(axis.title.x = element_blank()) + 
+    guides(color=F) + 
+    geom_text_repel(aes(label=PHU),data=tmp_df2) + 
+    ggtitle('Opioid deaths in Ontario by PHU')
+  save_plot(path, tmp_gg,base_height=6,base_width=18)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

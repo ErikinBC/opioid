@@ -1,0 +1,32 @@
+---
+title: "opioid_report"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+For knitting to markdown see [here](https://stackoverflow.com/questions/31914161/how-to-convert-rmd-into-md-in-r-studio/31914830).
+
+
+## (1) Ontario wide opioid deaths
+
+<p align="center">
+<table><tr>
+<td> <img src="figures/total_n_death.png" width="90%"/> </td>
+<td> <p align="center"><img src="figures/total_r_death.png" width="90%"/> </td>
+</tr></table>
+</p>
+
+
+<br>
+
+## (2) PHU-level opioid deaths
+
+
+<p align="center"><img src="figures/phu_n_death.png" width="100%"/></p>
+<br>
+<p align="center"><img src="figures/phu_r_death.png" width="100%"/></p>
+
+<br>
