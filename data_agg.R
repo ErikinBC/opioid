@@ -7,7 +7,6 @@ dir_base <- getwd()
 dir_output <- file.path(dir_base, 'output')
 dir_figures <- file.path(dir_base, 'figures')
 
-
 ###########################
 # ---- (1) LOAD DATA ---- #
 
@@ -55,10 +54,12 @@ phu_txt_lbs <- phu_deaths_year %>%
   mutate(ridx=row_number(),value=max(value)) %>% 
   mutate(value=value*(1-0.75*(1-ridx/max(ridx)))) %>% ungroup
 
-tail(phu_txt_lbs)
+# Save for later
+write_csv(x=phu_deaths_year,file=file.path(dir_output,'phu_deaths_year.csv'))
 
-#######################
-# ---- (X) PLOTS ---- #
+
+##################################
+# ---- (X) FIGURES ---- #       
 
 di_msr <- c('n_death'='# Deaths', 'r_death'='Death Rate (per 100K)')
 

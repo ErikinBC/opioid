@@ -1,0 +1,443 @@
+year,PHU,cn,value
+2016,Algoma,area_km2,41266.67
+2016,Brant County,area_km2,1128.88
+2016,Chatham-Kent,area_km2,2470.52
+2016,City of Hamilton Services,area_km2,1117.29
+2016,Durham Region Health Department,area_km2,2523.8
+2016,Eastern Ontario,area_km2,5314.34
+2016,Grey Bruce,area_km2,8603.7
+2016,Haldimand-Norfolk,area_km2,2859.09
+2016,Haliburton,area_km2,9065.6
+2016,Halton Region,area_km2,964.04
+2016,Hastings Prince Edward,area_km2,7154.41
+2016,Huron Perth,area_km2,3399.27
+2016,Kingston,area_km2,6627.44
+2016,Lambton,area_km2,3002.25
+2016,Leeds,area_km2,6418.52
+2016,Middlesex-London,area_km2,3317.27
+2016,Niagara Region,area_km2,1854.23
+2016,North Bay Parry Sound District,area_km2,16937.78
+2016,Northwestern,area_km2,173828.16
+2016,Ottawa,area_km2,2790.3
+2016,Peel,area_km2,1246.96
+2016,Peterborough,area_km2,3848.2
+2016,Porcupine,area_km2,271922.4
+2016,Public Health Sudbury & Districts,area_km2,46551.02
+2016,Region of Waterloo and Emergency Services,area_km2,1368.92
+2016,Renfrew County and District,area_km2,15032.23
+2016,Simcoe Muskoka District,area_km2,8800.12
+2016,Southwestern,area_km2,1881.03
+2016,Thunder Bay District,area_km2,230610.23
+2016,Timiskaming,area_km2,14146.28
+2016,Toronto,area_km2,630.2
+2016,Wellington-Dufferin-Guelph,area_km2,4147.01
+2016,Windsor-Essex County,area_km2,1850.9
+2016,York Region,area_km2,1762.13
+2016,Algoma,construction,0.03488557178734392
+2016,Brant County,construction,0.038460683399657636
+2016,Chatham-Kent,construction,0.03219262656553184
+2016,City of Hamilton Services,construction,0.0374545786406465
+2016,Durham Region Health Department,construction,0.042199417212964996
+2016,Eastern Ontario,construction,0.04954084098598357
+2016,Grey Bruce,construction,0.048401933607857904
+2016,Haldimand-Norfolk,construction,0.046601977164119214
+2016,Haliburton,construction,0.05075858680053383
+2016,Halton Region,construction,0.03062378061010521
+2016,Hastings Prince Edward,construction,0.03679116515696736
+2016,Huron Perth,construction,0.04646103512825269
+2016,Kingston,construction,0.03645992252912915
+2016,Lambton,construction,0.04299657290860563
+2016,Leeds,construction,0.04933705183049325
+2016,Middlesex-London,construction,0.03453150862958426
+2016,Niagara Region,construction,0.03586834208552138
+2016,North Bay Parry Sound District,construction,0.04478274915199483
+2016,Northwestern,construction,0.03897717611666994
+2016,Ottawa,construction,0.02475801263696918
+2016,Peel,construction,0.032390225685799974
+2016,Peterborough,construction,0.0415593622500651
+2016,Porcupine,construction,0.03616346599209035
+2016,Public Health Sudbury & Districts,construction,0.0373890291578433
+2016,Region of Waterloo and Emergency Services,construction,0.03642876629904663
+2016,Renfrew County and District,construction,0.043149633662506154
+2016,Simcoe Muskoka District,construction,0.05489135565267127
+2016,Southwestern,construction,0.04085279507293938
+2016,Thunder Bay District,construction,0.037824919017144666
+2016,Timiskaming,construction,0.03676359345214681
+2016,Toronto,construction,0.02799854003428796
+2016,Wellington-Dufferin-Guelph,construction,0.0417280400476691
+2016,Windsor-Essex County,construction,0.027070857970738407
+2016,York Region,construction,0.03879597336358206
+2016,Algoma,income,29267.0
+2016,Brant County,income,30478.0
+2016,Chatham-Kent,income,28426.0
+2016,City of Hamilton Services,income,30175.0
+2016,Durham Region Health Department,income,33943.0
+2016,Eastern Ontario,income,30957.0
+2016,Grey Bruce,income,29405.0
+2016,Haldimand-Norfolk,income,30360.0
+2016,Haliburton,income,29786.0
+2016,Halton Region,income,37779.0
+2016,Hastings Prince Edward,income,28193.0
+2016,Huron Perth,income,30304.0
+2016,Kingston,income,31903.0
+2016,Lambton,income,31444.0
+2016,Leeds,income,31555.0
+2016,Middlesex-London,income,30595.0
+2016,Niagara Region,income,29021.0
+2016,North Bay Parry Sound District,income,28734.0
+2016,Northwestern,income,31278.0
+2016,Ottawa,income,37136.0
+2016,Peel,income,28405.0
+2016,Peterborough,income,29137.0
+2016,Porcupine,income,31515.0
+2016,Public Health Sudbury & Districts,income,33098.0
+2016,Region of Waterloo and Emergency Services,income,32338.0
+2016,Renfrew County and District,income,31125.0
+2016,Simcoe Muskoka District,income,30762.0
+2016,Southwestern,income,29961.0
+2016,Thunder Bay District,income,32022.0
+2016,Timiskaming,income,28566.0
+2016,Toronto,income,27958.0
+2016,Wellington-Dufferin-Guelph,income,34004.0
+2016,Windsor-Essex County,income,30263.0
+2016,York Region,income,30288.0
+2016,Algoma,married,0.4980368575572141
+2016,Brant County,married,0.47831306551655145
+2016,Chatham-Kent,married,0.49278728366750946
+2016,City of Hamilton Services,married,0.45986623630840523
+2016,Durham Region Health Department,married,0.4798238633020676
+2016,Eastern Ontario,married,0.5181197660311103
+2016,Grey Bruce,married,0.5374528482438865
+2016,Haldimand-Norfolk,married,0.5271677671177908
+2016,Haliburton,married,0.551504051194139
+2016,Halton Region,married,0.5047590394398556
+2016,Hastings Prince Edward,married,0.5155106092567316
+2016,Huron Perth,married,0.5227077255173112
+2016,Kingston,married,0.4975874391688172
+2016,Lambton,married,0.5068383897408361
+2016,Leeds,married,0.5335196520999267
+2016,Middlesex-London,married,0.46281661200458374
+2016,Niagara Region,married,0.4865278819704926
+2016,North Bay Parry Sound District,married,0.5153044742367954
+2016,Northwestern,married,0.47158459224380356
+2016,Ottawa,married,0.46828822907958634
+2016,Peel,married,0.4787210945008627
+2016,Peterborough,married,0.49831447669203394
+2016,Porcupine,married,0.49470908896568927
+2016,Public Health Sudbury & Districts,married,0.4937184394852582
+2016,Region of Waterloo and Emergency Services,married,0.4795442059668806
+2016,Renfrew County and District,married,0.514175668240132
+2016,Simcoe Muskoka District,married,0.5043507715886564
+2016,Southwestern,married,0.5009103373867697
+2016,Thunder Bay District,married,0.4682520871191172
+2016,Timiskaming,married,0.5095464310569154
+2016,Toronto,married,0.4324837245672911
+2016,Wellington-Dufferin-Guelph,married,0.49604339434931327
+2016,Windsor-Essex County,married,0.4678621291229794
+2016,York Region,married,0.5097399876926847
+2016,Algoma,num_transfers,0.6355010434721092
+2016,Brant County,num_transfers,0.5665725528556501
+2016,Chatham-Kent,num_transfers,0.5986260559377511
+2016,City of Hamilton Services,num_transfers,0.5799965357774106
+2016,Durham Region Health Department,num_transfers,0.5414237097088852
+2016,Eastern Ontario,num_transfers,0.5741953620500883
+2016,Grey Bruce,num_transfers,0.5929236866962594
+2016,Haldimand-Norfolk,num_transfers,0.5815215408747675
+2016,Haliburton,num_transfers,0.6221975285202951
+2016,Halton Region,num_transfers,0.5083875790894007
+2016,Hastings Prince Edward,num_transfers,0.6094738801340117
+2016,Huron Perth,num_transfers,0.5735534681349815
+2016,Kingston,num_transfers,0.586616881202712
+2016,Lambton,num_transfers,0.5970561758713814
+2016,Leeds,num_transfers,0.5931968046134575
+2016,Middlesex-London,num_transfers,0.5815365094418321
+2016,Niagara Region,num_transfers,0.6075737684421105
+2016,North Bay Parry Sound District,num_transfers,0.6199725407850105
+2016,Northwestern,num_transfers,0.5663462167287947
+2016,Ottawa,num_transfers,0.5383021333849972
+2016,Peel,num_transfers,0.5480610011695365
+2016,Peterborough,num_transfers,0.6154330275760294
+2016,Porcupine,num_transfers,0.5608009406064061
+2016,Public Health Sudbury & Districts,num_transfers,0.5845567274800456
+2016,Region of Waterloo and Emergency Services,num_transfers,0.5402370158870157
+2016,Renfrew County and District,num_transfers,0.571949842170803
+2016,Simcoe Muskoka District,num_transfers,0.5719214658426022
+2016,Southwestern,num_transfers,0.561543302838904
+2016,Thunder Bay District,num_transfers,0.5914382028390087
+2016,Timiskaming,num_transfers,0.5965384731761929
+2016,Toronto,num_transfers,0.5851724154341952
+2016,Wellington-Dufferin-Guelph,num_transfers,0.5309163646334647
+2016,Windsor-Essex County,num_transfers,0.5872370930911661
+2016,York Region,num_transfers,0.5465132727097447
+2016,Algoma,particp,0.547
+2016,Brant County,particp,0.648
+2016,Chatham-Kent,particp,0.602
+2016,City of Hamilton Services,particp,0.632
+2016,Durham Region Health Department,particp,0.674
+2016,Eastern Ontario,particp,0.625
+2016,Grey Bruce,particp,0.606
+2016,Haldimand-Norfolk,particp,0.619
+2016,Haliburton,particp,0.56
+2016,Halton Region,particp,0.698
+2016,Hastings Prince Edward,particp,0.573
+2016,Huron Perth,particp,0.644
+2016,Kingston,particp,0.618
+2016,Lambton,particp,0.585
+2016,Leeds,particp,0.605
+2016,Middlesex-London,particp,0.6409999999999999
+2016,Niagara Region,particp,0.61
+2016,North Bay Parry Sound District,particp,0.57
+2016,Northwestern,particp,0.618
+2016,Ottawa,particp,0.675
+2016,Peel,particp,0.6729999999999999
+2016,Peterborough,particp,0.5920000000000001
+2016,Porcupine,particp,0.609
+2016,Public Health Sudbury & Districts,particp,0.611
+2016,Region of Waterloo and Emergency Services,particp,0.6859999999999999
+2016,Renfrew County and District,particp,0.611
+2016,Simcoe Muskoka District,particp,0.649
+2016,Southwestern,particp,0.634
+2016,Thunder Bay District,particp,0.599
+2016,Timiskaming,particp,0.5720000000000001
+2016,Toronto,particp,0.647
+2016,Wellington-Dufferin-Guelph,particp,0.7040000000000001
+2016,Windsor-Essex County,particp,0.602
+2016,York Region,particp,0.667
+2016,Algoma,pct_employment,0.628
+2016,Brant County,pct_employment,0.716
+2016,Chatham-Kent,pct_employment,0.649
+2016,City of Hamilton Services,pct_employment,0.715
+2016,Durham Region Health Department,pct_employment,0.7609999999999999
+2016,Eastern Ontario,pct_employment,0.6859999999999999
+2016,Grey Bruce,pct_employment,0.636
+2016,Haldimand-Norfolk,pct_employment,0.669
+2016,Haliburton,pct_employment,0.604
+2016,Halton Region,pct_employment,0.774
+2016,Hastings Prince Edward,pct_employment,0.627
+2016,Huron Perth,pct_employment,0.6629999999999999
+2016,Kingston,pct_employment,0.65
+2016,Lambton,pct_employment,0.659
+2016,Leeds,pct_employment,0.644
+2016,Middlesex-London,pct_employment,0.7020000000000001
+2016,Niagara Region,pct_employment,0.6629999999999999
+2016,North Bay Parry Sound District,pct_employment,0.6409999999999999
+2016,Northwestern,pct_employment,0.69
+2016,Ottawa,pct_employment,0.728
+2016,Peel,pct_employment,0.789
+2016,Peterborough,pct_employment,0.632
+2016,Porcupine,pct_employment,0.722
+2016,Public Health Sudbury & Districts,pct_employment,0.6920000000000001
+2016,Region of Waterloo and Emergency Services,pct_employment,0.76
+2016,Renfrew County and District,pct_employment,0.674
+2016,Simcoe Muskoka District,pct_employment,0.703
+2016,Southwestern,pct_employment,0.6890000000000001
+2016,Thunder Bay District,pct_employment,0.6779999999999999
+2016,Timiskaming,pct_employment,0.693
+2016,Toronto,pct_employment,0.7440000000000001
+2016,Wellington-Dufferin-Guelph,pct_employment,0.7509999999999999
+2016,Windsor-Essex County,pct_employment,0.687
+2016,York Region,pct_employment,0.7759999999999999
+2016,Algoma,pct_govt,0.187
+2016,Brant County,pct_govt,0.145
+2016,Chatham-Kent,pct_govt,0.17800000000000002
+2016,City of Hamilton Services,pct_govt,0.133
+2016,Durham Region Health Department,pct_govt,0.102
+2016,Eastern Ontario,pct_govt,0.152
+2016,Grey Bruce,pct_govt,0.145
+2016,Haldimand-Norfolk,pct_govt,0.153
+2016,Haliburton,pct_govt,0.166
+2016,Halton Region,pct_govt,0.067
+2016,Hastings Prince Edward,pct_govt,0.17800000000000002
+2016,Huron Perth,pct_govt,0.154
+2016,Kingston,pct_govt,0.135
+2016,Lambton,pct_govt,0.136
+2016,Leeds,pct_govt,0.151
+2016,Middlesex-London,pct_govt,0.126
+2016,Niagara Region,pct_govt,0.153
+2016,North Bay Parry Sound District,pct_govt,0.174
+2016,Northwestern,pct_govt,0.154
+2016,Ottawa,pct_govt,0.086
+2016,Peel,pct_govt,0.10400000000000001
+2016,Peterborough,pct_govt,0.157
+2016,Porcupine,pct_govt,0.149
+2016,Public Health Sudbury & Districts,pct_govt,0.136
+2016,Region of Waterloo and Emergency Services,pct_govt,0.10300000000000001
+2016,Renfrew County and District,pct_govt,0.153
+2016,Simcoe Muskoka District,pct_govt,0.131
+2016,Southwestern,pct_govt,0.158
+2016,Thunder Bay District,pct_govt,0.149
+2016,Timiskaming,pct_govt,0.174
+2016,Toronto,pct_govt,0.094
+2016,Wellington-Dufferin-Guelph,pct_govt,0.099
+2016,Windsor-Essex County,pct_govt,0.14
+2016,York Region,pct_govt,0.084
+2016,Algoma,pct_market,0.813
+2016,Brant County,pct_market,0.855
+2016,Chatham-Kent,pct_market,0.8220000000000001
+2016,City of Hamilton Services,pct_market,0.867
+2016,Durham Region Health Department,pct_market,0.898
+2016,Eastern Ontario,pct_market,0.848
+2016,Grey Bruce,pct_market,0.855
+2016,Haldimand-Norfolk,pct_market,0.847
+2016,Haliburton,pct_market,0.8340000000000001
+2016,Halton Region,pct_market,0.9329999999999999
+2016,Hastings Prince Edward,pct_market,0.8220000000000001
+2016,Huron Perth,pct_market,0.846
+2016,Kingston,pct_market,0.865
+2016,Lambton,pct_market,0.8640000000000001
+2016,Leeds,pct_market,0.8490000000000001
+2016,Middlesex-London,pct_market,0.8740000000000001
+2016,Niagara Region,pct_market,0.847
+2016,North Bay Parry Sound District,pct_market,0.826
+2016,Northwestern,pct_market,0.846
+2016,Ottawa,pct_market,0.914
+2016,Peel,pct_market,0.8959999999999999
+2016,Peterborough,pct_market,0.843
+2016,Porcupine,pct_market,0.851
+2016,Public Health Sudbury & Districts,pct_market,0.8640000000000001
+2016,Region of Waterloo and Emergency Services,pct_market,0.897
+2016,Renfrew County and District,pct_market,0.847
+2016,Simcoe Muskoka District,pct_market,0.8690000000000001
+2016,Southwestern,pct_market,0.8420000000000001
+2016,Thunder Bay District,pct_market,0.851
+2016,Timiskaming,pct_market,0.826
+2016,Toronto,pct_market,0.9059999999999999
+2016,Wellington-Dufferin-Guelph,pct_market,0.9009999999999999
+2016,Windsor-Essex County,pct_market,0.86
+2016,York Region,pct_market,0.9159999999999999
+2016,Algoma,poverty_adult,0.161
+2016,Brant County,poverty_adult,0.125
+2016,Chatham-Kent,poverty_adult,0.16399999999999998
+2016,City of Hamilton Services,poverty_adult,0.145
+2016,Durham Region Health Department,poverty_adult,0.08800000000000001
+2016,Eastern Ontario,poverty_adult,0.132
+2016,Grey Bruce,poverty_adult,0.139
+2016,Haldimand-Norfolk,poverty_adult,0.111
+2016,Haliburton,poverty_adult,0.129
+2016,Halton Region,poverty_adult,0.076
+2016,Hastings Prince Edward,poverty_adult,0.155
+2016,Huron Perth,poverty_adult,0.125
+2016,Kingston,poverty_adult,0.141
+2016,Lambton,poverty_adult,0.129
+2016,Leeds,poverty_adult,0.128
+2016,Middlesex-London,poverty_adult,0.16899999999999998
+2016,Niagara Region,poverty_adult,0.14300000000000002
+2016,North Bay Parry Sound District,poverty_adult,0.161
+2016,Northwestern,poverty_adult,0.10400000000000001
+2016,Ottawa,poverty_adult,0.122
+2016,Peel,poverty_adult,0.115
+2016,Peterborough,poverty_adult,0.155
+2016,Porcupine,poverty_adult,0.122
+2016,Public Health Sudbury & Districts,poverty_adult,0.127
+2016,Region of Waterloo and Emergency Services,poverty_adult,0.114
+2016,Renfrew County and District,poverty_adult,0.122
+2016,Simcoe Muskoka District,poverty_adult,0.11
+2016,Southwestern,poverty_adult,0.13
+2016,Thunder Bay District,poverty_adult,0.13
+2016,Timiskaming,poverty_adult,0.159
+2016,Toronto,poverty_adult,0.192
+2016,Wellington-Dufferin-Guelph,poverty_adult,0.09300000000000001
+2016,Windsor-Essex County,poverty_adult,0.159
+2016,York Region,poverty_adult,0.114
+2016,Algoma,poverty_child,0.22
+2016,Brant County,poverty_child,0.174
+2016,Chatham-Kent,poverty_child,0.223
+2016,City of Hamilton Services,poverty_child,0.21
+2016,Durham Region Health Department,poverty_child,0.133
+2016,Eastern Ontario,poverty_child,0.185
+2016,Grey Bruce,poverty_child,0.192
+2016,Haldimand-Norfolk,poverty_child,0.141
+2016,Haliburton,poverty_child,0.165
+2016,Halton Region,poverty_child,0.105
+2016,Hastings Prince Edward,poverty_child,0.21100000000000002
+2016,Huron Perth,poverty_child,0.18600000000000003
+2016,Kingston,poverty_child,0.16
+2016,Lambton,poverty_child,0.17300000000000001
+2016,Leeds,poverty_child,0.165
+2016,Middlesex-London,poverty_child,0.22399999999999998
+2016,Niagara Region,poverty_child,0.191
+2016,North Bay Parry Sound District,poverty_child,0.20199999999999999
+2016,Northwestern,poverty_child,0.16399999999999998
+2016,Ottawa,poverty_child,0.16
+2016,Peel,poverty_child,0.18100000000000002
+2016,Peterborough,poverty_child,0.192
+2016,Porcupine,poverty_child,0.184
+2016,Public Health Sudbury & Districts,poverty_child,0.166
+2016,Region of Waterloo and Emergency Services,poverty_child,0.153
+2016,Renfrew County and District,poverty_child,0.152
+2016,Simcoe Muskoka District,poverty_child,0.151
+2016,Southwestern,poverty_child,0.188
+2016,Thunder Bay District,poverty_child,0.198
+2016,Timiskaming,poverty_child,0.204
+2016,Toronto,poverty_child,0.263
+2016,Wellington-Dufferin-Guelph,poverty_child,0.121
+2016,Windsor-Essex County,poverty_child,0.226
+2016,York Region,poverty_child,0.142
+2016,Algoma,unemp,0.10400000000000001
+2016,Brant County,unemp,0.062
+2016,Chatham-Kent,unemp,0.075
+2016,City of Hamilton Services,unemp,0.07
+2016,Durham Region Health Department,unemp,0.08
+2016,Eastern Ontario,unemp,0.066
+2016,Grey Bruce,unemp,0.06
+2016,Haldimand-Norfolk,unemp,0.069
+2016,Haliburton,unemp,0.077
+2016,Halton Region,unemp,0.06
+2016,Hastings Prince Edward,unemp,0.069
+2016,Huron Perth,unemp,0.053
+2016,Kingston,unemp,0.07200000000000001
+2016,Lambton,unemp,0.081
+2016,Leeds,unemp,0.07200000000000001
+2016,Middlesex-London,unemp,0.07400000000000001
+2016,Niagara Region,unemp,0.07400000000000001
+2016,North Bay Parry Sound District,unemp,0.096
+2016,Northwestern,unemp,0.10300000000000001
+2016,Ottawa,unemp,0.07200000000000001
+2016,Peel,unemp,0.08199999999999999
+2016,Peterborough,unemp,0.08
+2016,Porcupine,unemp,0.096
+2016,Public Health Sudbury & Districts,unemp,0.08800000000000001
+2016,Region of Waterloo and Emergency Services,unemp,0.063
+2016,Renfrew County and District,unemp,0.073
+2016,Simcoe Muskoka District,unemp,0.07
+2016,Southwestern,unemp,0.064
+2016,Thunder Bay District,unemp,0.084
+2016,Timiskaming,unemp,0.08900000000000001
+2016,Toronto,unemp,0.08199999999999999
+2016,Wellington-Dufferin-Guelph,unemp,0.054000000000000006
+2016,Windsor-Essex County,unemp,0.073
+2016,York Region,unemp,0.064
+2016,Algoma,divorce_sep,0.08666124296982775
+2016,Brant County,divorce_sep,0.08136768857962251
+2016,Chatham-Kent,divorce_sep,0.08055506556123948
+2016,City of Hamilton Services,divorce_sep,0.08125091960209865
+2016,Durham Region Health Department,divorce_sep,0.07126909463631549
+2016,Eastern Ontario,divorce_sep,0.07220287825134887
+2016,Grey Bruce,divorce_sep,0.07149163152793298
+2016,Haldimand-Norfolk,divorce_sep,0.0714077262612629
+2016,Haliburton,divorce_sep,0.08149852303122015
+2016,Halton Region,divorce_sep,0.06022646463541381
+2016,Hastings Prince Edward,divorce_sep,0.08291971708648715
+2016,Huron Perth,divorce_sep,0.06602357623488542
+2016,Kingston,divorce_sep,0.08473699725386966
+2016,Lambton,divorce_sep,0.07770179566954627
+2016,Leeds,divorce_sep,0.08171633854080498
+2016,Middlesex-London,divorce_sep,0.08109306603794295
+2016,Niagara Region,divorce_sep,0.08579153717000679
+2016,North Bay Parry Sound District,divorce_sep,0.08455822968825714
+2016,Northwestern,divorce_sep,0.06369759989536328
+2016,Ottawa,divorce_sep,0.07173722468351382
+2016,Peel,divorce_sep,0.05774948181428687
+2016,Peterborough,divorce_sep,0.08376978500535316
+2016,Porcupine,divorce_sep,0.0682889751903184
+2016,Public Health Sudbury & Districts,divorce_sep,0.07666150838898844
+2016,Region of Waterloo and Emergency Services,divorce_sep,0.07012934594527931
+2016,Renfrew County and District,divorce_sep,0.07741835838328845
+2016,Simcoe Muskoka District,divorce_sep,0.08062948751409073
+2016,Southwestern,divorce_sep,0.0746251882487806
+2016,Thunder Bay District,divorce_sep,0.07831634668562851
+2016,Timiskaming,divorce_sep,0.07882235468546704
+2016,Toronto,divorce_sep,0.08079965704717175
+2016,Wellington-Dufferin-Guelph,divorce_sep,0.06647659960416366
+2016,Windsor-Essex County,divorce_sep,0.08028514637062512
+2016,York Region,divorce_sep,0.05399541764234725

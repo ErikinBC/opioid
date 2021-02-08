@@ -1,0 +1,1089 @@
+year,PHU,pop,pcat,msr,value
+2005,Northwestern,8.348408333333333,0-10K,n_death,3
+2005,Porcupine,9.039608333333334,0-10K,n_death,1
+2005,Timiskaming,3.5722333333333336,0-10K,n_death,5
+2005,Algoma,12.02565,10-13K,n_death,5
+2005,Chatham-Kent,11.209175,10-13K,n_death,6
+2005,Haldimand-Norfolk,11.095175,10-13K,n_death,5
+2005,North Bay Parry Sound District,12.688091666666667,10-13K,n_death,7
+2005,Renfrew County and District,10.198758333333332,10-13K,n_death,9
+2005,Brant County,13.559583333333334,13-16K,n_death,8
+2005,Huron Perth,13.859883333333334,13-16K,n_death,3
+2005,Lambton,13.252083333333335,13-16K,n_death,6
+2005,Peterborough,13.676141666666666,13-16K,n_death,9
+2005,Thunder Bay District,16.093166666666665,13-16K,n_death,13
+2005,Grey Bruce,16.244,16-19K,n_death,10
+2005,Haliburton,17.588625,16-19K,n_death,5
+2005,Hastings Prince Edward,16.2205,16-19K,n_death,6
+2005,Leeds,16.834483333333335,16-19K,n_death,3
+2005,Eastern Ontario,19.879858333333335,19-30K,n_death,1
+2005,Kingston,19.0893,19-30K,n_death,12
+2005,Public Health Sudbury & Districts,19.831591666666665,19-30K,n_death,13
+2005,Southwestern,19.342141666666667,19-30K,n_death,3
+2005,Wellington-Dufferin-Guelph,26.23813333333333,19-30K,n_death,4
+2005,Middlesex-London,43.729416666666665,30-50K,n_death,24
+2005,Niagara Region,44.04175,30-50K,n_death,21
+2005,Windsor-Essex County,40.756883333333334,30-50K,n_death,17
+2005,City of Hamilton Services,52.23745833333333,50-90K,n_death,26
+2005,Durham Region Health Department,57.31679166666666,50-90K,n_death,17
+2005,Halton Region,44.36050833333333,50-90K,n_death,9
+2005,Region of Waterloo and Emergency Services,49.049125,50-90K,n_death,17
+2005,Simcoe Muskoka District,49.04073333333333,50-90K,n_death,15
+2005,Ottawa,83.78795,90-300K,n_death,20
+2005,Peel,117.81018333333333,90-300K,n_death,23
+2005,Toronto,259.798575,90-300K,n_death,88
+2005,York Region,90.363375,90-300K,n_death,11
+2006,Northwestern,8.321958333333333,0-10K,n_death,3
+2006,Porcupine,9.005858333333332,0-10K,n_death,2
+2006,Timiskaming,3.5534083333333335,0-10K,n_death,2
+2006,Algoma,11.997316666666666,10-13K,n_death,7
+2006,Chatham-Kent,11.2201,10-13K,n_death,6
+2006,Haldimand-Norfolk,11.141308333333333,10-13K,n_death,7
+2006,North Bay Parry Sound District,12.720591666666667,10-13K,n_death,4
+2006,Renfrew County and District,10.245075,10-13K,n_death,2
+2006,Brant County,13.671241666666665,13-16K,n_death,6
+2006,Huron Perth,13.8344,13-16K,n_death,0
+2006,Lambton,13.254108333333335,13-16K,n_death,3
+2006,Peterborough,13.744291666666665,13-16K,n_death,5
+2006,Thunder Bay District,15.976308333333334,13-16K,n_death,10
+2006,Grey Bruce,16.270616666666665,16-19K,n_death,7
+2006,Haliburton,17.675058333333336,16-19K,n_death,2
+2006,Hastings Prince Edward,16.2791,16-19K,n_death,9
+2006,Leeds,16.837316666666666,16-19K,n_death,3
+2006,Eastern Ontario,19.890183333333333,19-30K,n_death,8
+2006,Kingston,19.117408333333334,19-30K,n_death,9
+2006,Public Health Sudbury & Districts,19.926275,19-30K,n_death,9
+2006,Southwestern,19.495366666666666,19-30K,n_death,5
+2006,Wellington-Dufferin-Guelph,26.46894166666667,19-30K,n_death,8
+2006,Middlesex-London,44.0398,30-50K,n_death,31
+2006,Niagara Region,44.20421666666667,30-50K,n_death,20
+2006,Windsor-Essex County,40.83638333333333,30-50K,n_death,23
+2006,City of Hamilton Services,52.34985833333333,50-90K,n_death,21
+2006,Durham Region Health Department,58.37155833333334,50-90K,n_death,20
+2006,Halton Region,45.68376666666667,50-90K,n_death,10
+2006,Region of Waterloo and Emergency Services,49.78615,50-90K,n_death,13
+2006,Simcoe Muskoka District,49.735775,50-90K,n_death,24
+2006,Ottawa,84.57496666666667,90-300K,n_death,16
+2006,Peel,121.12510833333333,90-300K,n_death,26
+2006,Toronto,260.83440833333333,90-300K,n_death,85
+2006,York Region,93.08968333333334,90-300K,n_death,11
+2007,Northwestern,8.237216666666667,0-10K,n_death,6
+2007,Porcupine,8.955591666666667,0-10K,n_death,3
+2007,Timiskaming,3.5475916666666665,0-10K,n_death,1
+2007,Algoma,11.980491666666667,10-13K,n_death,4
+2007,Chatham-Kent,11.120983333333333,10-13K,n_death,2
+2007,Haldimand-Norfolk,11.1239,10-13K,n_death,7
+2007,North Bay Parry Sound District,12.723016666666668,10-13K,n_death,4
+2007,Renfrew County and District,10.318033333333332,10-13K,n_death,5
+2007,Brant County,13.7384,13-16K,n_death,6
+2007,Huron Perth,13.808325,13-16K,n_death,6
+2007,Lambton,13.2415,13-16K,n_death,4
+2007,Peterborough,13.741708333333335,13-16K,n_death,9
+2007,Thunder Bay District,15.803316666666666,13-16K,n_death,21
+2007,Grey Bruce,16.259616666666666,16-19K,n_death,4
+2007,Haliburton,17.649525,16-19K,n_death,8
+2007,Hastings Prince Edward,16.328975,16-19K,n_death,3
+2007,Leeds,16.836833333333335,16-19K,n_death,8
+2007,Eastern Ontario,19.9312,19-30K,n_death,4
+2007,Kingston,19.15395,19-30K,n_death,10
+2007,Public Health Sudbury & Districts,19.984825,19-30K,n_death,12
+2007,Southwestern,19.550308333333334,19-30K,n_death,7
+2007,Wellington-Dufferin-Guelph,26.602675,19-30K,n_death,5
+2007,Middlesex-London,44.24868333333333,30-50K,n_death,25
+2007,Niagara Region,44.140825,30-50K,n_death,32
+2007,Windsor-Essex County,40.60958333333333,30-50K,n_death,22
+2007,City of Hamilton Services,52.4114,50-90K,n_death,22
+2007,Durham Region Health Department,59.33795,50-90K,n_death,19
+2007,Halton Region,46.785825,50-90K,n_death,7
+2007,Region of Waterloo and Emergency Services,50.2807,50-90K,n_death,13
+2007,Simcoe Muskoka District,50.167925,50-90K,n_death,16
+2007,Ottawa,85.55335833333334,90-300K,n_death,20
+2007,Peel,124.24589166666668,90-300K,n_death,23
+2007,Toronto,261.79123333333337,90-300K,n_death,91
+2007,York Region,95.94535,90-300K,n_death,27
+2008,Northwestern,8.182158333333334,0-10K,n_death,3
+2008,Porcupine,8.893358333333333,0-10K,n_death,3
+2008,Timiskaming,3.5336333333333334,0-10K,n_death,2
+2008,Algoma,11.955825,10-13K,n_death,11
+2008,Chatham-Kent,11.000925,10-13K,n_death,2
+2008,Haldimand-Norfolk,11.127366666666667,10-13K,n_death,5
+2008,North Bay Parry Sound District,12.740933333333333,10-13K,n_death,7
+2008,Renfrew County and District,10.380941666666667,10-13K,n_death,4
+2008,Brant County,13.8195,13-16K,n_death,10
+2008,Huron Perth,13.797183333333335,13-16K,n_death,1
+2008,Lambton,13.22335,13-16K,n_death,7
+2008,Peterborough,13.756141666666666,13-16K,n_death,10
+2008,Thunder Bay District,15.692725,13-16K,n_death,16
+2008,Grey Bruce,16.247983333333334,16-19K,n_death,2
+2008,Haliburton,17.641,16-19K,n_death,7
+2008,Hastings Prince Edward,16.355808333333336,16-19K,n_death,8
+2008,Leeds,16.818941666666667,16-19K,n_death,5
+2008,Eastern Ontario,20.008033333333334,19-30K,n_death,9
+2008,Kingston,19.270516666666666,19-30K,n_death,12
+2008,Public Health Sudbury & Districts,20.051883333333333,19-30K,n_death,22
+2008,Southwestern,19.597408333333334,19-30K,n_death,12
+2008,Wellington-Dufferin-Guelph,26.75306666666667,19-30K,n_death,12
+2008,Middlesex-London,44.49178333333333,30-50K,n_death,24
+2008,Niagara Region,44.08014166666667,30-50K,n_death,23
+2008,Windsor-Essex County,40.310575,30-50K,n_death,26
+2008,City of Hamilton Services,52.558,50-90K,n_death,25
+2008,Durham Region Health Department,60.21154166666666,50-90K,n_death,13
+2008,Halton Region,47.96883333333333,50-90K,n_death,10
+2008,Region of Waterloo and Emergency Services,50.7959,50-90K,n_death,13
+2008,Simcoe Muskoka District,50.59990833333333,50-90K,n_death,19
+2008,Ottawa,86.85825,90-300K,n_death,14
+2008,Peel,127.02339166666667,90-300K,n_death,26
+2008,Toronto,263.2491,90-300K,n_death,103
+2008,York Region,98.738125,90-300K,n_death,13
+2009,Northwestern,8.157425,0-10K,n_death,2
+2009,Porcupine,8.843691666666667,0-10K,n_death,3
+2009,Timiskaming,3.5122333333333335,0-10K,n_death,3
+2009,Algoma,11.89955,10-13K,n_death,11
+2009,Chatham-Kent,10.883108333333332,10-13K,n_death,1
+2009,Haldimand-Norfolk,11.111425,10-13K,n_death,9
+2009,North Bay Parry Sound District,12.7464,10-13K,n_death,8
+2009,Renfrew County and District,10.432108333333332,10-13K,n_death,5
+2009,Brant County,13.910366666666667,13-16K,n_death,4
+2009,Huron Perth,13.802291666666665,13-16K,n_death,3
+2009,Lambton,13.20695,13-16K,n_death,6
+2009,Peterborough,13.761325,13-16K,n_death,5
+2009,Thunder Bay District,15.623308333333334,13-16K,n_death,21
+2009,Grey Bruce,16.229275,16-19K,n_death,7
+2009,Haliburton,17.607925,16-19K,n_death,9
+2009,Hastings Prince Edward,16.3703,16-19K,n_death,11
+2009,Leeds,16.810766666666666,16-19K,n_death,3
+2009,Eastern Ontario,20.07385,19-30K,n_death,6
+2009,Kingston,19.417175,19-30K,n_death,8
+2009,Public Health Sudbury & Districts,20.060933333333335,19-30K,n_death,16
+2009,Southwestern,19.632708333333333,19-30K,n_death,6
+2009,Wellington-Dufferin-Guelph,26.893525,19-30K,n_death,7
+2009,Middlesex-London,44.693675,30-50K,n_death,27
+2009,Niagara Region,44.089575,30-50K,n_death,23
+2009,Windsor-Essex County,40.06486666666667,30-50K,n_death,22
+2009,City of Hamilton Services,52.777058333333336,50-90K,n_death,32
+2009,Durham Region Health Department,60.988058333333335,50-90K,n_death,30
+2009,Halton Region,49.30001666666667,50-90K,n_death,16
+2009,Region of Waterloo and Emergency Services,51.23885,50-90K,n_death,11
+2009,Simcoe Muskoka District,51.000725,50-90K,n_death,28
+2009,Ottawa,88.318475,90-300K,n_death,34
+2009,Peel,129.32560833333332,90-300K,n_death,30
+2009,Toronto,265.3419,90-300K,n_death,101
+2009,York Region,101.39660833333333,90-300K,n_death,8
+2010,Northwestern,8.138091666666668,0-10K,n_death,4
+2010,Porcupine,8.806691666666667,0-10K,n_death,5
+2010,Timiskaming,3.505625,0-10K,n_death,2
+2010,Algoma,11.867808333333333,10-13K,n_death,8
+2010,Chatham-Kent,10.759666666666668,10-13K,n_death,5
+2010,Haldimand-Norfolk,11.094158333333333,10-13K,n_death,5
+2010,North Bay Parry Sound District,12.795983333333332,10-13K,n_death,15
+2010,Renfrew County and District,10.479966666666668,10-13K,n_death,7
+2010,Brant County,14.000366666666666,13-16K,n_death,6
+2010,Huron Perth,13.781058333333334,13-16K,n_death,3
+2010,Lambton,13.178191666666665,13-16K,n_death,6
+2010,Peterborough,13.82175,13-16K,n_death,8
+2010,Thunder Bay District,15.582308333333334,13-16K,n_death,20
+2010,Grey Bruce,16.250483333333335,16-19K,n_death,8
+2010,Haliburton,17.60485,16-19K,n_death,14
+2010,Hastings Prince Edward,16.391858333333335,16-19K,n_death,6
+2010,Leeds,16.875333333333334,16-19K,n_death,8
+2010,Eastern Ontario,20.210025,19-30K,n_death,8
+2010,Kingston,19.579708333333333,19-30K,n_death,10
+2010,Public Health Sudbury & Districts,20.019525,19-30K,n_death,21
+2010,Southwestern,19.735975,19-30K,n_death,8
+2010,Wellington-Dufferin-Guelph,27.1072,19-30K,n_death,10
+2010,Middlesex-London,44.97865,30-50K,n_death,18
+2010,Niagara Region,44.17903333333333,30-50K,n_death,30
+2010,Windsor-Essex County,39.99258333333333,30-50K,n_death,25
+2010,City of Hamilton Services,53.14885,50-90K,n_death,38
+2010,Durham Region Health Department,61.85386666666666,50-90K,n_death,31
+2010,Halton Region,50.58959166666667,50-90K,n_death,14
+2010,Region of Waterloo and Emergency Services,51.757825,50-90K,n_death,18
+2010,Simcoe Muskoka District,51.482675,50-90K,n_death,27
+2010,Ottawa,89.81666666666666,90-300K,n_death,22
+2010,Peel,131.69508333333332,90-300K,n_death,29
+2010,Toronto,267.59365833333334,90-300K,n_death,98
+2010,York Region,104.166375,90-300K,n_death,16
+2011,Northwestern,8.143858333333332,0-10K,n_death,4
+2011,Porcupine,8.779975,0-10K,n_death,3
+2011,Timiskaming,3.5001916666666664,0-10K,n_death,1
+2011,Algoma,11.825308333333332,10-13K,n_death,10
+2011,Chatham-Kent,10.675691666666667,10-13K,n_death,5
+2011,Haldimand-Norfolk,11.074191666666668,10-13K,n_death,7
+2011,North Bay Parry Sound District,12.827075,10-13K,n_death,13
+2011,Renfrew County and District,10.534525,10-13K,n_death,3
+2011,Brant County,14.100116666666665,13-16K,n_death,10
+2011,Huron Perth,13.762183333333335,13-16K,n_death,3
+2011,Lambton,13.139383333333335,13-16K,n_death,6
+2011,Peterborough,13.850858333333335,13-16K,n_death,9
+2011,Thunder Bay District,15.562958333333334,13-16K,n_death,17
+2011,Grey Bruce,16.257108333333335,16-19K,n_death,3
+2011,Haliburton,17.646658333333335,16-19K,n_death,9
+2011,Hastings Prince Edward,16.408916666666666,16-19K,n_death,8
+2011,Leeds,16.902175,16-19K,n_death,3
+2011,Eastern Ontario,20.327325,19-30K,n_death,3
+2011,Kingston,19.715958333333333,19-30K,n_death,9
+2011,Public Health Sudbury & Districts,19.991016666666667,19-30K,n_death,16
+2011,Southwestern,19.850175,19-30K,n_death,8
+2011,Wellington-Dufferin-Guelph,27.32375833333333,19-30K,n_death,7
+2011,Middlesex-London,45.290425,30-50K,n_death,12
+2011,Niagara Region,44.285125,30-50K,n_death,37
+2011,Windsor-Essex County,39.986725,30-50K,n_death,37
+2011,City of Hamilton Services,53.557741666666665,50-90K,n_death,39
+2011,Durham Region Health Department,62.66178333333334,50-90K,n_death,19
+2011,Halton Region,51.68248333333333,50-90K,n_death,13
+2011,Region of Waterloo and Emergency Services,52.345933333333335,50-90K,n_death,17
+2011,Simcoe Muskoka District,52.007825,50-90K,n_death,30
+2011,Ottawa,91.15910833333334,90-300K,n_death,20
+2011,Peel,133.97945,90-300K,n_death,30
+2011,Toronto,270.43960833333335,90-300K,n_death,90
+2011,York Region,106.4495,90-300K,n_death,25
+2012,Northwestern,8.139141666666667,0-10K,n_death,4
+2012,Porcupine,8.73965,0-10K,n_death,12
+2012,Timiskaming,3.486375,0-10K,n_death,2
+2012,Algoma,11.75945,10-13K,n_death,8
+2012,Chatham-Kent,10.630033333333333,10-13K,n_death,6
+2012,Haldimand-Norfolk,11.044083333333333,10-13K,n_death,5
+2012,North Bay Parry Sound District,12.8338,10-13K,n_death,14
+2012,Renfrew County and District,10.571383333333333,10-13K,n_death,3
+2012,Brant County,14.210941666666665,13-16K,n_death,8
+2012,Huron Perth,13.729058333333334,13-16K,n_death,1
+2012,Lambton,13.111633333333334,13-16K,n_death,7
+2012,Peterborough,13.889383333333335,13-16K,n_death,5
+2012,Thunder Bay District,15.558833333333334,13-16K,n_death,17
+2012,Grey Bruce,16.286858333333335,16-19K,n_death,10
+2012,Haliburton,17.756858333333334,16-19K,n_death,9
+2012,Hastings Prince Edward,16.3873,16-19K,n_death,7
+2012,Leeds,16.917483333333333,16-19K,n_death,8
+2012,Eastern Ontario,20.418216666666666,19-30K,n_death,7
+2012,Kingston,19.853983333333336,19-30K,n_death,11
+2012,Public Health Sudbury & Districts,20.017283333333335,19-30K,n_death,16
+2012,Southwestern,19.977008333333334,19-30K,n_death,11
+2012,Wellington-Dufferin-Guelph,27.60115,19-30K,n_death,11
+2012,Middlesex-London,45.72310833333333,30-50K,n_death,40
+2012,Niagara Region,44.447358333333334,30-50K,n_death,34
+2012,Windsor-Essex County,40.111975,30-50K,n_death,33
+2012,City of Hamilton Services,54.067433333333334,50-90K,n_death,37
+2012,Durham Region Health Department,63.5701,50-90K,n_death,22
+2012,Halton Region,52.810408333333335,50-90K,n_death,13
+2012,Region of Waterloo and Emergency Services,52.90130833333334,50-90K,n_death,25
+2012,Simcoe Muskoka District,52.71820833333334,50-90K,n_death,27
+2012,Ottawa,92.39045,90-300K,n_death,19
+2012,Peel,136.4023,90-300K,n_death,22
+2012,Toronto,274.0629,90-300K,n_death,85
+2012,York Region,108.53980833333333,90-300K,n_death,16
+2013,Northwestern,8.139025,0-10K,n_death,6
+2013,Porcupine,8.704808333333332,0-10K,n_death,6
+2013,Timiskaming,3.4682166666666663,0-10K,n_death,5
+2013,Algoma,11.696758333333333,10-13K,n_death,10
+2013,Chatham-Kent,10.60105,10-13K,n_death,4
+2013,Haldimand-Norfolk,11.0393,10-13K,n_death,3
+2013,North Bay Parry Sound District,12.821458333333332,10-13K,n_death,13
+2013,Renfrew County and District,10.59445,10-13K,n_death,5
+2013,Brant County,14.33855,13-16K,n_death,10
+2013,Huron Perth,13.740083333333335,13-16K,n_death,2
+2013,Lambton,13.075625,13-16K,n_death,9
+2013,Peterborough,13.947475,13-16K,n_death,15
+2013,Thunder Bay District,15.544591666666665,13-16K,n_death,26
+2013,Grey Bruce,16.330208333333335,16-19K,n_death,7
+2013,Haliburton,17.836658333333336,16-19K,n_death,12
+2013,Hastings Prince Edward,16.370391666666666,16-19K,n_death,11
+2013,Leeds,16.913858333333334,16-19K,n_death,4
+2013,Eastern Ontario,20.451108333333334,19-30K,n_death,4
+2013,Kingston,19.9555,19-30K,n_death,10
+2013,Public Health Sudbury & Districts,20.036966666666665,19-30K,n_death,20
+2013,Southwestern,20.054991666666666,19-30K,n_death,16
+2013,Wellington-Dufferin-Guelph,27.855825,19-30K,n_death,11
+2013,Middlesex-London,46.12846666666667,30-50K,n_death,28
+2013,Niagara Region,44.58599166666667,30-50K,n_death,33
+2013,Windsor-Essex County,40.192425,30-50K,n_death,28
+2013,City of Hamilton Services,54.601683333333334,50-90K,n_death,41
+2013,Durham Region Health Department,64.45300833333334,50-90K,n_death,18
+2013,Halton Region,53.943725,50-90K,n_death,10
+2013,Region of Waterloo and Emergency Services,53.35316666666666,50-90K,n_death,22
+2013,Simcoe Muskoka District,53.446841666666664,50-90K,n_death,37
+2013,Ottawa,93.55853333333334,90-300K,n_death,29
+2013,Peel,138.99820833333334,90-300K,n_death,21
+2013,Toronto,277.6539583333333,90-300K,n_death,104
+2013,York Region,110.45483333333333,90-300K,n_death,24
+2014,Northwestern,8.138033333333333,0-10K,n_death,6
+2014,Porcupine,8.6453,0-10K,n_death,5
+2014,Timiskaming,3.4419916666666666,0-10K,n_death,5
+2014,Algoma,11.621366666666667,10-13K,n_death,12
+2014,Chatham-Kent,10.582141666666667,10-13K,n_death,7
+2014,Haldimand-Norfolk,11.052075,10-13K,n_death,7
+2014,North Bay Parry Sound District,12.809408333333334,10-13K,n_death,16
+2014,Renfrew County and District,10.615033333333333,10-13K,n_death,8
+2014,Brant County,14.448033333333335,13-16K,n_death,6
+2014,Huron Perth,13.750316666666667,13-16K,n_death,5
+2014,Lambton,13.033458333333332,13-16K,n_death,8
+2014,Peterborough,13.995066666666666,13-16K,n_death,13
+2014,Thunder Bay District,15.502466666666665,13-16K,n_death,27
+2014,Grey Bruce,16.3497,16-19K,n_death,9
+2014,Haliburton,17.903591666666667,16-19K,n_death,10
+2014,Hastings Prince Edward,16.34365,16-19K,n_death,7
+2014,Leeds,16.914983333333335,16-19K,n_death,6
+2014,Eastern Ontario,20.480383333333336,19-30K,n_death,8
+2014,Kingston,20.058275,19-30K,n_death,10
+2014,Public Health Sudbury & Districts,19.997208333333333,19-30K,n_death,15
+2014,Southwestern,20.151558333333334,19-30K,n_death,9
+2014,Wellington-Dufferin-Guelph,28.1771,19-30K,n_death,8
+2014,Middlesex-London,46.51391666666667,30-50K,n_death,13
+2014,Niagara Region,44.778825,30-50K,n_death,35
+2014,Windsor-Essex County,40.29663333333333,30-50K,n_death,18
+2014,City of Hamilton Services,55.085325,50-90K,n_death,37
+2014,Durham Region Health Department,65.27755,50-90K,n_death,31
+2014,Halton Region,54.93951666666666,50-90K,n_death,12
+2014,Region of Waterloo and Emergency Services,53.770041666666664,50-90K,n_death,22
+2014,Simcoe Muskoka District,54.167116666666665,50-90K,n_death,34
+2014,Ottawa,94.63589166666667,90-300K,n_death,30
+2014,Peel,141.48151666666666,90-300K,n_death,45
+2014,Toronto,280.5395,90-300K,n_death,131
+2014,York Region,112.30521666666668,90-300K,n_death,23
+2015,Northwestern,8.137516666666667,0-10K,n_death,4
+2015,Porcupine,8.567125,0-10K,n_death,4
+2015,Timiskaming,3.4060583333333336,0-10K,n_death,2
+2015,Algoma,11.56235,10-13K,n_death,7
+2015,Chatham-Kent,10.551083333333333,10-13K,n_death,3
+2015,Haldimand-Norfolk,11.08375,10-13K,n_death,11
+2015,North Bay Parry Sound District,12.791208333333334,10-13K,n_death,11
+2015,Renfrew County and District,10.620591666666668,10-13K,n_death,6
+2015,Brant County,14.568858333333335,13-16K,n_death,11
+2015,Huron Perth,13.766391666666665,13-16K,n_death,6
+2015,Lambton,12.9914,13-16K,n_death,11
+2015,Peterborough,14.053366666666665,13-16K,n_death,11
+2015,Thunder Bay District,15.425483333333334,13-16K,n_death,18
+2015,Grey Bruce,16.389375,16-19K,n_death,4
+2015,Haliburton,18.018808333333336,16-19K,n_death,11
+2015,Hastings Prince Edward,16.348958333333336,16-19K,n_death,5
+2015,Leeds,16.9168,16-19K,n_death,7
+2015,Eastern Ontario,20.519191666666664,19-30K,n_death,3
+2015,Kingston,20.177108333333333,19-30K,n_death,8
+2015,Public Health Sudbury & Districts,19.951533333333334,19-30K,n_death,28
+2015,Southwestern,20.238766666666667,19-30K,n_death,8
+2015,Wellington-Dufferin-Guelph,28.55965,19-30K,n_death,8
+2015,Middlesex-London,46.95014166666667,30-50K,n_death,25
+2015,Niagara Region,45.02784166666667,30-50K,n_death,36
+2015,Windsor-Essex County,40.4568,30-50K,n_death,24
+2015,City of Hamilton Services,55.506483333333335,50-90K,n_death,46
+2015,Durham Region Health Department,66.15381666666666,50-90K,n_death,29
+2015,Halton Region,55.847033333333336,50-90K,n_death,15
+2015,Region of Waterloo and Emergency Services,54.230975,50-90K,n_death,23
+2015,Simcoe Muskoka District,54.883775,50-90K,n_death,44
+2015,Ottawa,95.71863333333334,90-300K,n_death,34
+2015,Peel,143.8439666666667,90-300K,n_death,53
+2015,Toronto,282.94481666666667,90-300K,n_death,137
+2015,York Region,113.79996666666668,90-300K,n_death,30
+2016,Northwestern,8.1545,0-10K,n_death,5
+2016,Porcupine,8.506058333333334,0-10K,n_death,5
+2016,Timiskaming,3.3731166666666663,0-10K,n_death,3
+2016,Algoma,11.522633333333333,10-13K,n_death,15
+2016,Chatham-Kent,10.531275,10-13K,n_death,3
+2016,Haldimand-Norfolk,11.124975,10-13K,n_death,11
+2016,North Bay Parry Sound District,12.793075,10-13K,n_death,7
+2016,Renfrew County and District,10.649541666666668,10-13K,n_death,3
+2016,Brant County,14.722008333333335,13-16K,n_death,8
+2016,Huron Perth,13.7944,13-16K,n_death,4
+2016,Lambton,12.972425,13-16K,n_death,5
+2016,Peterborough,14.135675,13-16K,n_death,10
+2016,Thunder Bay District,15.372225,13-16K,n_death,14
+2016,Grey Bruce,16.450716666666665,16-19K,n_death,8
+2016,Haliburton,18.159225,16-19K,n_death,8
+2016,Hastings Prince Edward,16.386041666666667,16-19K,n_death,12
+2016,Leeds,16.9388,16-19K,n_death,7
+2016,Eastern Ontario,20.600733333333334,19-30K,n_death,6
+2016,Kingston,20.362883333333333,19-30K,n_death,16
+2016,Public Health Sudbury & Districts,19.938266666666667,19-30K,n_death,17
+2016,Southwestern,20.346566666666664,19-30K,n_death,12
+2016,Wellington-Dufferin-Guelph,29.009441666666667,19-30K,n_death,14
+2016,Middlesex-London,47.582433333333334,30-50K,n_death,30
+2016,Niagara Region,45.37988333333333,30-50K,n_death,40
+2016,Windsor-Essex County,40.7926,30-50K,n_death,37
+2016,City of Hamilton Services,56.1069,50-90K,n_death,52
+2016,Durham Region Health Department,67.14431666666667,50-90K,n_death,41
+2016,Halton Region,56.935,50-90K,n_death,26
+2016,Region of Waterloo and Emergency Services,54.884883333333335,50-90K,n_death,38
+2016,Simcoe Muskoka District,55.68544166666666,50-90K,n_death,46
+2016,Ottawa,97.348075,90-300K,n_death,40
+2016,Peel,147.04285,90-300K,n_death,46
+2016,Toronto,287.6881583333334,90-300K,n_death,186
+2016,York Region,115.72038333333333,90-300K,n_death,29
+2017,Northwestern,8.173725,0-10K,n_death,6
+2017,Porcupine,8.513541666666667,0-10K,n_death,2
+2017,Timiskaming,3.3549,0-10K,n_death,1
+2017,Algoma,11.502033333333333,10-13K,n_death,22
+2017,Chatham-Kent,10.537641666666667,10-13K,n_death,5
+2017,Haldimand-Norfolk,11.159516666666667,10-13K,n_death,10
+2017,North Bay Parry Sound District,12.8371,10-13K,n_death,9
+2017,Renfrew County and District,10.718933333333332,10-13K,n_death,5
+2017,Brant County,14.914233333333334,13-16K,n_death,25
+2017,Huron Perth,13.825933333333335,13-16K,n_death,5
+2017,Lambton,12.993091666666666,13-16K,n_death,7
+2017,Peterborough,14.244625,13-16K,n_death,16
+2017,Thunder Bay District,15.395508333333334,13-16K,n_death,31
+2017,Grey Bruce,16.535791666666665,16-19K,n_death,11
+2017,Haliburton,18.325091666666665,16-19K,n_death,10
+2017,Hastings Prince Edward,16.45275,16-19K,n_death,8
+2017,Leeds,16.996483333333334,16-19K,n_death,8
+2017,Eastern Ontario,20.730308333333333,19-30K,n_death,7
+2017,Kingston,20.637458333333335,19-30K,n_death,25
+2017,Public Health Sudbury & Districts,19.976933333333335,19-30K,n_death,34
+2017,Southwestern,20.489541666666664,19-30K,n_death,12
+2017,Wellington-Dufferin-Guelph,29.477725,19-30K,n_death,23
+2017,Middlesex-London,48.38520833333333,30-50K,n_death,31
+2017,Niagara Region,45.83335833333333,30-50K,n_death,74
+2017,Windsor-Essex County,41.213,30-50K,n_death,36
+2017,City of Hamilton Services,56.940925,50-90K,n_death,88
+2017,Durham Region Health Department,68.16741666666667,50-90K,n_death,58
+2017,Halton Region,58.205,50-90K,n_death,40
+2017,Region of Waterloo and Emergency Services,55.698175,50-90K,n_death,86
+2017,Simcoe Muskoka District,56.59744166666666,50-90K,n_death,81
+2017,Ottawa,99.52916666666667,90-300K,n_death,64
+2017,Peel,150.52103333333332,90-300K,n_death,81
+2017,Toronto,294.70903333333337,90-300K,n_death,308
+2017,York Region,117.94980833333332,90-300K,n_death,34
+2018,Northwestern,8.18745,0-10K,n_death,9
+2018,Porcupine,8.524491666666668,0-10K,n_death,13
+2018,Timiskaming,3.339175,0-10K,n_death,3
+2018,Algoma,11.474675,10-13K,n_death,26
+2018,Chatham-Kent,10.540708333333333,10-13K,n_death,4
+2018,Haldimand-Norfolk,11.186116666666667,10-13K,n_death,11
+2018,North Bay Parry Sound District,12.880175,10-13K,n_death,14
+2018,Renfrew County and District,10.784258333333334,10-13K,n_death,5
+2018,Brant County,15.096058333333334,13-16K,n_death,22
+2018,Huron Perth,13.850875,13-16K,n_death,8
+2018,Lambton,13.008216666666668,13-16K,n_death,13
+2018,Peterborough,14.346091666666666,13-16K,n_death,27
+2018,Thunder Bay District,15.421483333333335,13-16K,n_death,44
+2018,Grey Bruce,16.617608333333333,16-19K,n_death,7
+2018,Haliburton,18.488583333333334,16-19K,n_death,30
+2018,Hastings Prince Edward,16.510158333333333,16-19K,n_death,19
+2018,Leeds,17.054458333333333,16-19K,n_death,9
+2018,Eastern Ontario,20.852783333333335,19-30K,n_death,6
+2018,Kingston,20.889341666666667,19-30K,n_death,23
+2018,Public Health Sudbury & Districts,20.009566666666665,19-30K,n_death,32
+2018,Southwestern,20.629683333333336,19-30K,n_death,23
+2018,Wellington-Dufferin-Guelph,29.915,19-30K,n_death,26
+2018,Middlesex-London,49.10368333333333,30-50K,n_death,62
+2018,Niagara Region,46.24215,30-50K,n_death,89
+2018,Windsor-Essex County,41.55670833333333,30-50K,n_death,51
+2018,City of Hamilton Services,57.7194,50-90K,n_death,123
+2018,Durham Region Health Department,69.158725,50-90K,n_death,60
+2018,Halton Region,59.44095,50-90K,n_death,44
+2018,Region of Waterloo and Emergency Services,56.45520833333334,50-90K,n_death,61
+2018,Simcoe Muskoka District,57.484233333333336,50-90K,n_death,76
+2018,Ottawa,101.50490833333333,90-300K,n_death,82
+2018,Peel,153.738625,90-300K,n_death,109
+2018,Toronto,300.76825833333334,90-300K,n_death,300
+2018,York Region,120.097125,90-300K,n_death,42
+2019,Northwestern,8.195541666666667,0-10K,n_death,9
+2019,Porcupine,8.528525,0-10K,n_death,22
+2019,Timiskaming,3.324225,0-10K,n_death,5
+2019,Algoma,11.44025,10-13K,n_death,17
+2019,Chatham-Kent,10.538083333333333,10-13K,n_death,6
+2019,Haldimand-Norfolk,11.208633333333333,10-13K,n_death,11
+2019,North Bay Parry Sound District,12.916075,10-13K,n_death,19
+2019,Renfrew County and District,10.839033333333333,10-13K,n_death,4
+2019,Brant County,15.265266666666665,13-16K,n_death,41
+2019,Huron Perth,13.870125,13-16K,n_death,1
+2019,Lambton,13.014266666666668,13-16K,n_death,21
+2019,Peterborough,14.438308333333334,13-16K,n_death,29
+2019,Thunder Bay District,15.445558333333334,13-16K,n_death,38
+2019,Grey Bruce,16.693666666666665,16-19K,n_death,16
+2019,Haliburton,18.644708333333334,16-19K,n_death,20
+2019,Hastings Prince Edward,16.555658333333334,16-19K,n_death,16
+2019,Leeds,17.108183333333333,16-19K,n_death,6
+2019,Eastern Ontario,20.9619,19-30K,n_death,7
+2019,Kingston,21.11225,19-30K,n_death,31
+2019,Public Health Sudbury & Districts,20.032716666666666,19-30K,n_death,56
+2019,Southwestern,20.76355,19-30K,n_death,17
+2019,Wellington-Dufferin-Guelph,30.327033333333333,19-30K,n_death,34
+2019,Middlesex-London,49.747275,30-50K,n_death,60
+2019,Niagara Region,46.60610833333333,30-50K,n_death,89
+2019,Windsor-Essex County,41.84176666666667,30-50K,n_death,47
+2019,City of Hamilton Services,58.441875,50-90K,n_death,104
+2019,Durham Region Health Department,70.134,50-90K,n_death,72
+2019,Halton Region,60.65196666666666,50-90K,n_death,30
+2019,Region of Waterloo and Emergency Services,57.163425,50-90K,n_death,62
+2019,Simcoe Muskoka District,58.33450833333334,50-90K,n_death,87
+2019,Ottawa,103.27530833333334,90-300K,n_death,65
+2019,Peel,156.77765,90-300K,n_death,112
+2019,Toronto,306.05140833333337,90-300K,n_death,293
+2019,York Region,122.21144166666667,90-300K,n_death,62
+2020,Northwestern,8.1985,0-10K,n_death,14.666666666666668
+2020,Porcupine,8.5271,0-10K,n_death,32
+2020,Timiskaming,3.3146,0-10K,n_death,4
+2020,Algoma,11.413055555555557,10-13K,n_death,40
+2020,Chatham-Kent,10.533433333333333,10-13K,n_death,17.333333333333332
+2020,Haldimand-Norfolk,11.221311111111111,10-13K,n_death,17.333333333333332
+2020,North Bay Parry Sound District,12.93651111111111,10-13K,n_death,45.33333333333333
+2020,Renfrew County and District,10.871233333333333,10-13K,n_death,6.666666666666667
+2020,Brant County,15.374777777777778,13-16K,n_death,36
+2020,Huron Perth,13.880211111111112,13-16K,n_death,9.333333333333334
+2020,Lambton,13.014044444444444,13-16K,n_death,33.33333333333333
+2020,Peterborough,14.496,13-16K,n_death,41.333333333333336
+2020,Thunder Bay District,15.4589,13-16K,n_death,45.33333333333333
+2020,Grey Bruce,16.742344444444445,16-19K,n_death,17.333333333333332
+2020,Haliburton,18.746688888888887,16-19K,n_death,29.333333333333336
+2020,Hastings Prince Edward,16.57988888888889,16-19K,n_death,18.666666666666668
+2020,Leeds,17.142233333333333,16-19K,n_death,17.333333333333332
+2020,Eastern Ontario,21.028755555555556,19-30K,n_death,14.666666666666668
+2020,Kingston,21.24888888888889,19-30K,n_death,40
+2020,Public Health Sudbury & Districts,20.043133333333333,19-30K,n_death,94.66666666666667
+2020,Southwestern,20.851066666666664,19-30K,n_death,22.666666666666664
+2020,Wellington-Dufferin-Guelph,30.59433333333333,19-30K,n_death,20
+2020,Middlesex-London,50.14946666666667,30-50K,n_death,92
+2020,Niagara Region,46.830866666666665,30-50K,n_death,146.66666666666666
+2020,Windsor-Essex County,42.01037777777778,30-50K,n_death,68
+2020,City of Hamilton Services,58.908522222222224,50-90K,n_death,117.33333333333334
+2020,Durham Region Health Department,70.79057777777777,50-90K,n_death,89.33333333333334
+2020,Halton Region,61.46675555555555,50-90K,n_death,29.333333333333336
+2020,Region of Waterloo and Emergency Services,57.62184444444445,50-90K,n_death,90.66666666666666
+2020,Simcoe Muskoka District,58.89331111111111,50-90K,n_death,122.66666666666666
+2020,Ottawa,104.3778,90-300K,n_death,113.33333333333334
+2020,Peel,158.76446666666666,90-300K,n_death,144
+2020,Toronto,309.29504444444444,90-300K,n_death,452
+2020,York Region,123.64417777777777,90-300K,n_death,58.66666666666667
+2005,Northwestern,8.348408333333333,0-10K,r_death,4.3121992315900535
+2005,Porcupine,9.039608333333334,0-10K,r_death,1.3274911431450294
+2005,Timiskaming,3.5722333333333336,0-10K,r_death,16.796215252829693
+2005,Algoma,12.02565,10-13K,r_death,4.989335295805216
+2005,Chatham-Kent,11.209175,10-13K,r_death,6.423309476388762
+2005,Haldimand-Norfolk,11.095175,10-13K,r_death,5.407756074149349
+2005,North Bay Parry Sound District,12.688091666666667,10-13K,r_death,6.620380921480837
+2005,Renfrew County and District,10.198758333333332,10-13K,r_death,10.589524378376128
+2005,Brant County,13.559583333333334,13-16K,r_death,7.079863565129213
+2005,Huron Perth,13.859883333333334,13-16K,r_death,2.597424461244864
+2005,Lambton,13.252083333333335,13-16K,r_death,5.433108001886495
+2005,Peterborough,13.676141666666666,13-16K,r_death,7.896964116950627
+2005,Thunder Bay District,16.093166666666665,13-16K,r_death,9.693555235659028
+2005,Grey Bruce,16.244,16-19K,r_death,7.3873430189608476
+2005,Haliburton,17.588625,16-19K,r_death,3.4112956527301024
+2005,Hastings Prince Edward,16.2205,16-19K,r_death,4.438827409759255
+2005,Leeds,16.834483333333335,16-19K,r_death,2.138467768043569
+2005,Eastern Ontario,19.879858333333335,19-30K,r_death,0.6036260318756463
+2005,Kingston,19.0893,19-30K,r_death,7.543492951548773
+2005,Public Health Sudbury & Districts,19.831591666666665,19-30K,r_death,7.866236993080486
+2005,Southwestern,19.342141666666667,19-30K,r_death,1.861220986817644
+2005,Wellington-Dufferin-Guelph,26.23813333333333,19-30K,r_death,1.8293984328153428
+2005,Middlesex-London,43.729416666666665,30-50K,r_death,6.5859556781952655
+2005,Niagara Region,44.04175,30-50K,r_death,5.721843478063429
+2005,Windsor-Essex County,40.756883333333334,30-50K,r_death,5.0052894950668865
+2005,City of Hamilton Services,52.23745833333333,50-90K,r_death,5.9727255106688295
+2005,Durham Region Health Department,57.31679166666666,50-90K,r_death,3.559166416473358
+2005,Halton Region,44.36050833333333,50-90K,r_death,2.434597890278159
+2005,Region of Waterloo and Emergency Services,49.049125,50-90K,r_death,4.159095600584108
+2005,Simcoe Muskoka District,49.04073333333333,50-90K,r_death,3.670418196574005
+2005,Ottawa,83.78795,90-300K,r_death,2.864373695740259
+2005,Peel,117.81018333333333,90-300K,r_death,2.3427516381931333
+2005,Toronto,259.798575,90-300K,r_death,4.064687421784357
+2005,York Region,90.363375,90-300K,r_death,1.4607688125858511
+2006,Northwestern,8.321958333333333,0-10K,r_death,4.3259048601340835
+2006,Porcupine,9.005858333333332,0-10K,r_death,2.6649319933413715
+2006,Timiskaming,3.5534083333333335,0-10K,r_death,6.754078830418682
+2006,Algoma,11.997316666666666,10-13K,r_death,7.0015656278695655
+2006,Chatham-Kent,11.2201,10-13K,r_death,6.417055106460727
+2006,Haldimand-Norfolk,11.141308333333333,10-13K,r_death,7.539509498061643
+2006,North Bay Parry Sound District,12.720591666666667,10-13K,r_death,3.773409386748913
+2006,Renfrew County and District,10.245075,10-13K,r_death,2.3425890000805265
+2006,Brant County,13.671241666666665,13-16K,r_death,5.266529680003463
+2006,Huron Perth,13.8344,13-16K,r_death,0
+2006,Lambton,13.254108333333335,13-16K,r_death,2.7161389581720883
+2006,Peterborough,13.744291666666665,13-16K,r_death,4.365448686272786
+2006,Thunder Bay District,15.976308333333334,13-16K,r_death,7.5111219373269895
+2006,Grey Bruce,16.270616666666665,16-19K,r_death,5.162680783457296
+2006,Haliburton,17.675058333333336,16-19K,r_death,1.3578455893827788
+2006,Hastings Prince Edward,16.2791,16-19K,r_death,6.634273393492269
+2006,Leeds,16.837316666666666,16-19K,r_death,2.1381079130779943
+2006,Eastern Ontario,19.890183333333333,19-30K,r_death,4.826501515404165
+2006,Kingston,19.117408333333334,19-30K,r_death,5.649301313070243
+2006,Public Health Sudbury & Districts,19.926275,19-30K,r_death,5.419979399059784
+2006,Southwestern,19.495366666666666,19-30K,r_death,3.0776543486401042
+2006,Wellington-Dufferin-Guelph,26.46894166666667,19-30K,r_death,3.6268922727989685
+2006,Middlesex-London,44.0398,30-50K,r_death,8.446904845162784
+2006,Niagara Region,44.20421666666667,30-50K,r_death,5.429346295394896
+2006,Windsor-Essex County,40.83638333333333,30-50K,r_death,6.7586788415395915
+2006,City of Hamilton Services,52.34985833333333,50-90K,r_death,4.813766608410115
+2006,Durham Region Health Department,58.37155833333334,50-90K,r_death,4.111591447147418
+2006,Halton Region,45.68376666666667,50-90K,r_death,2.626753631669309
+2006,Region of Waterloo and Emergency Services,49.78615,50-90K,r_death,3.1334015584655575
+2006,Simcoe Muskoka District,49.735775,50-90K,r_death,5.7906004279615635
+2006,Ottawa,84.57496666666667,90-300K,r_death,2.2701752961573733
+2006,Peel,121.12510833333333,90-300K,r_death,2.5758490893678596
+2006,Toronto,260.83440833333333,90-300K,r_death,3.910527014121891
+2006,York Region,93.08968333333334,90-300K,r_death,1.4179874210908798
+2007,Northwestern,8.237216666666667,0-10K,r_death,8.740816578415444
+2007,Porcupine,8.955591666666667,0-10K,r_death,4.0198349076135855
+2007,Timiskaming,3.5475916666666665,0-10K,r_death,3.3825764427040883
+2007,Algoma,11.980491666666667,10-13K,r_death,4.006513366521546
+2007,Chatham-Kent,11.120983333333333,10-13K,r_death,2.158082543659958
+2007,Haldimand-Norfolk,11.1239,10-13K,r_death,7.551308443980977
+2007,North Bay Parry Sound District,12.723016666666668,10-13K,r_death,3.7726901769889474
+2007,Renfrew County and District,10.318033333333332,10-13K,r_death,5.815061655806502
+2007,Brant County,13.7384,13-16K,r_death,5.24078495312409
+2007,Huron Perth,13.808325,13-16K,r_death,5.214245753920189
+2007,Lambton,13.2415,13-16K,r_death,3.624966959936563
+2007,Peterborough,13.741708333333335,13-16K,r_death,7.859284841465003
+2007,Thunder Bay District,15.803316666666666,13-16K,r_death,15.94601977011155
+2007,Grey Bruce,16.259616666666666,16-19K,r_death,2.9520991167278443
+2007,Haliburton,17.649525,16-19K,r_death,5.439239866228695
+2007,Hastings Prince Edward,16.328975,16-19K,r_death,2.2046699195754784
+2007,Leeds,16.836833333333335,16-19K,r_death,5.701784777422516
+2007,Eastern Ontario,19.9312,19-30K,r_death,2.4082844986754433
+2007,Kingston,19.15395,19-30K,r_death,6.265026273953937
+2007,Public Health Sudbury & Districts,19.984825,19-30K,r_death,7.205467148198696
+2007,Southwestern,19.550308333333334,19-30K,r_death,4.29660742776009
+2007,Wellington-Dufferin-Guelph,26.602675,19-30K,r_death,2.2554122846668614
+2007,Middlesex-London,44.24868333333333,30-50K,r_death,6.779862752978337
+2007,Niagara Region,44.140825,30-50K,r_death,8.699429609664069
+2007,Windsor-Essex County,40.60958333333333,30-50K,r_death,6.500928557503873
+2007,City of Hamilton Services,52.4114,50-90K,r_death,5.037072087370305
+2007,Durham Region Health Department,59.33795,50-90K,r_death,3.84239765613743
+2007,Halton Region,46.785825,50-90K,r_death,1.7954155986348428
+2007,Region of Waterloo and Emergency Services,50.2807,50-90K,r_death,3.1025821040677632
+2007,Simcoe Muskoka District,50.167925,50-90K,r_death,3.827146528384421
+2007,Ottawa,85.55335833333334,90-300K,r_death,2.8052668495479867
+2007,Peel,124.24589166666668,90-300K,r_death,2.2214014185713853
+2007,Toronto,261.79123333333337,90-300K,r_death,4.171262674062041
+2007,York Region,95.94535,90-300K,r_death,3.376922383419311
+2008,Northwestern,8.182158333333334,0-10K,r_death,4.399817081678734
+2008,Porcupine,8.893358333333333,0-10K,r_death,4.047964632783079
+2008,Timiskaming,3.5336333333333334,0-10K,r_death,6.7918761614579894
+2008,Algoma,11.955825,10-13K,r_death,11.040643368399921
+2008,Chatham-Kent,11.000925,10-13K,r_death,2.1816347261707536
+2008,Haldimand-Norfolk,11.127366666666667,10-13K,r_death,5.392111341107959
+2008,North Bay Parry Sound District,12.740933333333333,10-13K,r_death,6.592923595341001
+2008,Renfrew County and District,10.380941666666667,10-13K,r_death,4.623857983339661
+2008,Brant County,13.8195,13-16K,r_death,8.683382177358082
+2008,Huron Perth,13.797183333333335,13-16K,r_death,0.869742737346149
+2008,Lambton,13.22335,13-16K,r_death,6.352399354172732
+2008,Peterborough,13.756141666666666,13-16K,r_death,8.723376285865042
+2008,Thunder Bay District,15.692725,13-16K,r_death,12.234968751443743
+2008,Grey Bruce,16.247983333333334,16-19K,r_death,1.4771063896134802
+2008,Haliburton,17.641,16-19K,r_death,4.761634827957599
+2008,Hastings Prince Edward,16.355808333333336,16-19K,r_death,5.869474503705869
+2008,Leeds,16.818941666666667,16-19K,r_death,3.5674063915040235
+2008,Eastern Ontario,20.008033333333334,19-30K,r_death,5.397831870865202
+2008,Kingston,19.270516666666666,19-30K,r_death,7.47255522469126
+2008,Public Health Sudbury & Districts,20.051883333333333,19-30K,r_death,13.165845602200292
+2008,Southwestern,19.597408333333334,19-30K,r_death,7.3479103742033915
+2008,Wellington-Dufferin-Guelph,26.75306666666667,19-30K,r_death,5.382560503967146
+2008,Middlesex-London,44.49178333333333,30-50K,r_death,6.473105333681463
+2008,Niagara Region,44.08014166666667,30-50K,r_death,6.261322889729067
+2008,Windsor-Essex County,40.310575,30-50K,r_death,7.739904479159625
+2008,City of Hamilton Services,52.558,50-90K,r_death,5.707979755698466
+2008,Durham Region Health Department,60.21154166666666,50-90K,r_death,2.5908654002520284
+2008,Halton Region,47.96883333333333,50-90K,r_death,2.501624318567959
+2008,Region of Waterloo and Emergency Services,50.7959,50-90K,r_death,3.071114007232867
+2008,Simcoe Muskoka District,50.59990833333333,50-90K,r_death,4.505937016684319
+2008,Ottawa,86.85825,90-300K,r_death,1.9341858718083775
+2008,Peel,127.02339166666667,90-300K,r_death,2.4562405074078546
+2008,Toronto,263.2491,90-300K,r_death,4.695172747029335
+2008,York Region,98.738125,90-300K,r_death,1.5799368278463866
+2009,Northwestern,8.157425,0-10K,r_death,2.942104892168791
+2009,Porcupine,8.843691666666667,0-10K,r_death,4.070698228398209
+2009,Timiskaming,3.5122333333333335,0-10K,r_death,10.249888485009537
+2009,Algoma,11.89955,10-13K,r_death,11.092856452554928
+2009,Chatham-Kent,10.883108333333332,10-13K,r_death,1.1026261645531723
+2009,Haldimand-Norfolk,11.111425,10-13K,r_death,9.719725417756948
+2009,North Bay Parry Sound District,12.7464,10-13K,r_death,7.5315383167011865
+2009,Renfrew County and District,10.432108333333332,10-13K,r_death,5.751474014920283
+2009,Brant County,13.910366666666667,13-16K,r_death,3.4506638933553155
+2009,Huron Perth,13.802291666666665,13-16K,r_death,2.6082625167921996
+2009,Lambton,13.20695,13-16K,r_death,5.451675065022583
+2009,Peterborough,13.761325,13-16K,r_death,4.360045271803406
+2009,Thunder Bay District,15.623308333333334,13-16K,r_death,16.12974631386758
+2009,Grey Bruce,16.229275,16-19K,r_death,5.175831945666087
+2009,Haliburton,17.607925,16-19K,r_death,6.133601773065252
+2009,Hastings Prince Edward,16.3703,16-19K,r_death,8.063383077891059
+2009,Leeds,16.810766666666666,16-19K,r_death,2.141484723084214
+2009,Eastern Ontario,20.07385,19-30K,r_death,3.5867559038251255
+2009,Kingston,19.417175,19-30K,r_death,4.944076571385899
+2009,Public Health Sudbury & Districts,20.060933333333335,19-30K,r_death,9.570840838246143
+2009,Southwestern,19.632708333333333,19-30K,r_death,3.6673493426148966
+2009,Wellington-Dufferin-Guelph,26.893525,19-30K,r_death,3.1234284088828073
+2009,Middlesex-London,44.693675,30-50K,r_death,7.2493479222731185
+2009,Niagara Region,44.089575,30-50K,r_death,6.259983227327548
+2009,Windsor-Essex County,40.06486666666667,30-50K,r_death,6.5893143285971245
+2009,City of Hamilton Services,52.777058333333336,50-90K,r_death,7.27588865553483
+2009,Durham Region Health Department,60.988058333333335,50-90K,r_death,5.9027949050681645
+2009,Halton Region,49.30001666666667,50-90K,r_death,3.8945220099655136
+2009,Region of Waterloo and Emergency Services,51.23885,50-90K,r_death,2.5761702302061815
+2009,Simcoe Muskoka District,51.000725,50-90K,r_death,6.588141639162973
+2009,Ottawa,88.318475,90-300K,r_death,4.619644983679802
+2009,Peel,129.32560833333332,90-300K,r_death,2.78367142161133
+2009,Toronto,265.3419,90-300K,r_death,4.567691721511001
+2009,York Region,101.39660833333333,90-300K,r_death,0.946777230303479
+2010,Northwestern,8.138091666666668,0-10K,r_death,5.898188662165883
+2010,Porcupine,8.806691666666667,0-10K,r_death,6.813001098596427
+2010,Timiskaming,3.505625,0-10K,r_death,6.846140131930825
+2010,Algoma,11.867808333333333,10-13K,r_death,8.089109404502517
+2010,Chatham-Kent,10.759666666666668,10-13K,r_death,5.576380928777223
+2010,Haldimand-Norfolk,11.094158333333333,10-13K,r_death,5.408251639939638
+2010,North Bay Parry Sound District,12.795983333333332,10-13K,r_death,14.066914226990502
+2010,Renfrew County and District,10.479966666666668,10-13K,r_death,8.015292669505945
+2010,Brant County,14.000366666666666,13-16K,r_death,5.142722452507196
+2010,Huron Perth,13.781058333333334,13-16K,r_death,2.6122812290057547
+2010,Lambton,13.178191666666665,13-16K,r_death,5.463572075834887
+2010,Peterborough,13.82175,13-16K,r_death,6.945574909110641
+2010,Thunder Bay District,15.582308333333334,13-16K,r_death,15.402082596876692
+2010,Grey Bruce,16.250483333333335,16-19K,r_death,5.907516596942244
+2010,Haliburton,17.60485,16-19K,r_death,9.54282484656217
+2010,Hastings Prince Edward,16.391858333333335,16-19K,r_death,4.392424491223538
+2010,Leeds,16.875333333333334,16-19K,r_death,5.6887765179947065
+2010,Eastern Ontario,20.210025,19-30K,r_death,4.750117825188242
+2010,Kingston,19.579708333333333,19-30K,r_death,6.128794053367326
+2010,Public Health Sudbury & Districts,20.019525,19-30K,r_death,12.587711246895218
+2010,Southwestern,19.735975,19-30K,r_death,4.864213701121936
+2010,Wellington-Dufferin-Guelph,27.1072,19-30K,r_death,4.4268681383543855
+2010,Middlesex-London,44.97865,30-50K,r_death,4.802278414314347
+2010,Niagara Region,44.17903333333333,30-50K,r_death,8.148661770930556
+2010,Windsor-Essex County,39.99258333333333,30-50K,r_death,7.501390882892871
+2010,City of Hamilton Services,53.14885,50-90K,r_death,8.579677641190731
+2010,Durham Region Health Department,61.85386666666666,50-90K,r_death,6.01417534662344
+2010,Halton Region,50.58959166666667,50-90K,r_death,3.320841194112557
+2010,Region of Waterloo and Emergency Services,51.757825,50-90K,r_death,4.173282010980949
+2010,Simcoe Muskoka District,51.482675,50-90K,r_death,6.293379277591928
+2010,Ottawa,89.81666666666666,90-300K,r_death,2.939320838745593
+2010,Peel,131.69508333333332,90-300K,r_death,2.6424676699522447
+2010,Toronto,267.59365833333334,90-300K,r_death,4.394722981570409
+2010,York Region,104.166375,90-300K,r_death,1.8432051609744506
+2011,Northwestern,8.143858333333332,0-10K,r_death,5.894012154353537
+2011,Porcupine,8.779975,0-10K,r_death,4.100239465374332
+2011,Timiskaming,3.5001916666666664,0-10K,r_death,3.428383683750652
+2011,Algoma,11.825308333333332,10-13K,r_death,10.147726944399619
+2011,Chatham-Kent,10.675691666666667,10-13K,r_death,5.620244746046899
+2011,Haldimand-Norfolk,11.074191666666668,10-13K,r_death,7.585203735712839
+2011,North Bay Parry Sound District,12.827075,10-13K,r_death,12.16177499546857
+2011,Renfrew County and District,10.534525,10-13K,r_death,3.41733490594023
+2011,Brant County,14.100116666666665,13-16K,r_death,8.510567879461991
+2011,Huron Perth,13.762183333333335,13-16K,r_death,2.6158640041369403
+2011,Lambton,13.139383333333335,13-16K,r_death,5.479709220244988
+2011,Peterborough,13.850858333333335,13-16K,r_death,7.797350705702353
+2011,Thunder Bay District,15.562958333333334,13-16K,r_death,13.108047688019896
+2011,Grey Bruce,16.257108333333335,16-19K,r_death,2.214415950356075
+2011,Haliburton,17.646658333333335,16-19K,r_death,6.120138893152102
+2011,Hastings Prince Edward,16.408916666666666,16-19K,r_death,5.850477636650805
+2011,Leeds,16.902175,16-19K,r_death,2.1299034000062123
+2011,Eastern Ontario,20.327325,19-30K,r_death,1.771015123731234
+2011,Kingston,19.715958333333333,19-30K,r_death,5.477796116935731
+2011,Public Health Sudbury & Districts,19.991016666666667,19-30K,r_death,9.604313937677006
+2011,Southwestern,19.850175,19-30K,r_death,4.836229403519113
+2011,Wellington-Dufferin-Guelph,27.32375833333333,19-30K,r_death,3.074247655657424
+2011,Middlesex-London,45.290425,30-50K,r_death,3.1794799894238133
+2011,Niagara Region,44.285125,30-50K,r_death,10.025939861296541
+2011,Windsor-Essex County,39.986725,30-50K,r_death,11.103685035471146
+2011,City of Hamilton Services,53.557741666666665,50-90K,r_death,8.738232521317725
+2011,Durham Region Health Department,62.66178333333334,50-90K,r_death,3.638581410732272
+2011,Halton Region,51.68248333333333,50-90K,r_death,3.018430809407056
+2011,Region of Waterloo and Emergency Services,52.345933333333335,50-90K,r_death,3.897150877049984
+2011,Simcoe Muskoka District,52.007825,50-90K,r_death,6.922035289881859
+2011,Ottawa,91.15910833333334,90-300K,r_death,2.6327594070184794
+2011,Peel,133.97945,90-300K,r_death,2.686979234502007
+2011,Toronto,270.43960833333335,90-300K,r_death,3.993497870581272
+2011,York Region,106.4495,90-300K,r_death,2.818237755931216
+2012,Northwestern,8.139141666666667,0-10K,r_death,5.897427759069599
+2012,Porcupine,8.73965,0-10K,r_death,16.47663235941943
+2012,Timiskaming,3.486375,0-10K,r_death,6.883941056254706
+2012,Algoma,11.75945,10-13K,r_death,8.163647109346101
+2012,Chatham-Kent,10.630033333333333,10-13K,r_death,6.773261921411347
+2012,Haldimand-Norfolk,11.044083333333333,10-13K,r_death,5.432773204355273
+2012,North Bay Parry Sound District,12.8338,10-13K,r_death,13.090433075160902
+2012,Renfrew County and District,10.571383333333333,10-13K,r_death,3.4054199781485552
+2012,Brant County,14.210941666666665,13-16K,r_death,6.7553581072800135
+2012,Huron Perth,13.729058333333334,13-16K,r_death,0.8740584902946122
+2012,Lambton,13.111633333333334,13-16K,r_death,6.406524485889121
+2012,Peterborough,13.889383333333335,13-16K,r_death,4.3198462134748
+2012,Thunder Bay District,15.558833333333334,13-16K,r_death,13.111522929097083
+2012,Grey Bruce,16.286858333333335,16-19K,r_death,7.367903468184727
+2012,Haliburton,17.756858333333334,16-19K,r_death,6.082156988168421
+2012,Hastings Prince Edward,16.3873,16-19K,r_death,5.125920682479725
+2012,Leeds,16.917483333333333,16-19K,r_death,5.6746029009436985
+2012,Eastern Ontario,20.418216666666666,19-30K,r_death,4.113973388142778
+2012,Kingston,19.853983333333336,19-30K,r_death,6.648539881585474
+2012,Public Health Sudbury & Districts,20.017283333333335,19-30K,r_death,9.591711162936695
+2012,Southwestern,19.977008333333334,19-30K,r_death,6.607595982214554
+2012,Wellington-Dufferin-Guelph,27.60115,19-30K,r_death,4.782409428592649
+2012,Middlesex-London,45.72310833333333,30-50K,r_death,10.497973945705427
+2012,Niagara Region,44.447358333333334,30-50K,r_death,9.179398175707105
+2012,Windsor-Essex County,40.111975,30-50K,r_death,9.872363552280834
+2012,City of Hamilton Services,54.067433333333334,50-90K,r_death,8.21196740120208
+2012,Durham Region Health Department,63.5701,50-90K,r_death,4.152895779619664
+2012,Halton Region,52.810408333333335,50-90K,r_death,2.953963147100579
+2012,Region of Waterloo and Emergency Services,52.90130833333334,50-90K,r_death,5.670937249976646
+2012,Simcoe Muskoka District,52.71820833333334,50-90K,r_death,6.145884130799209
+2012,Ottawa,92.39045,90-300K,r_death,2.4677875256587667
+2012,Peel,136.4023,90-300K,r_death,1.9354512350598194
+2012,Toronto,274.0629,90-300K,r_death,3.721773359327366
+2012,York Region,108.53980833333333,90-300K,r_death,1.7689362359140584
+2013,Northwestern,8.139025,0-10K,r_death,8.846268441244497
+2013,Porcupine,8.704808333333332,0-10K,r_death,8.271290675555752
+2013,Timiskaming,3.4682166666666663,0-10K,r_death,17.299957230661292
+2013,Algoma,11.696758333333333,10-13K,r_death,10.259252741678427
+2013,Chatham-Kent,10.60105,10-13K,r_death,4.527853373014937
+2013,Haldimand-Norfolk,11.0393,10-13K,r_death,3.261076336361907
+2013,North Bay Parry Sound District,12.821458333333332,10-13K,r_death,12.167102676177633
+2013,Renfrew County and District,10.59445,10-13K,r_death,5.663342599191086
+2013,Brant County,14.33855,13-16K,r_death,8.369047079376925
+2013,Huron Perth,13.740083333333335,13-16K,r_death,1.7467142969778202
+2013,Lambton,13.075625,13-16K,r_death,8.259643420486592
+2013,Peterborough,13.947475,13-16K,r_death,12.905561759386554
+2013,Thunder Bay District,15.544591666666665,13-16K,r_death,20.071289532104146
+2013,Grey Bruce,16.330208333333335,16-19K,r_death,5.143841296166358
+2013,Haliburton,17.836658333333336,16-19K,r_death,8.073261106924456
+2013,Hastings Prince Edward,16.370391666666666,16-19K,r_death,8.06333792665315
+2013,Leeds,16.913858333333334,16-19K,r_death,2.837909544589422
+2013,Eastern Ontario,20.451108333333334,19-30K,r_death,2.3470610598529094
+2013,Kingston,19.9555,19-30K,r_death,6.013379769988224
+2013,Public Health Sudbury & Districts,20.036966666666665,19-30K,r_death,11.977860920398797
+2013,Southwestern,20.054991666666666,19-30K,r_death,9.573676378989603
+2013,Wellington-Dufferin-Guelph,27.855825,19-30K,r_death,4.738685714747275
+2013,Middlesex-London,46.12846666666667,30-50K,r_death,7.284005393632565
+2013,Niagara Region,44.58599166666667,30-50K,r_death,8.881713408116411
+2013,Windsor-Essex County,40.192425,30-50K,r_death,8.35978421307
+2013,City of Hamilton Services,54.601683333333334,50-90K,r_death,9.01071120823198
+2013,Durham Region Health Department,64.45300833333334,50-90K,r_death,3.351278793425856
+2013,Halton Region,53.943725,50-90K,r_death,2.224540481770586
+2013,Region of Waterloo and Emergency Services,53.35316666666666,50-90K,r_death,4.948159903036059
+2013,Simcoe Muskoka District,53.446841666666664,50-90K,r_death,8.307319687271823
+2013,Ottawa,93.55853333333334,90-300K,r_death,3.719596573410727
+2013,Peel,138.99820833333334,90-300K,r_death,1.8129730089446596
+2013,Toronto,277.6539583333333,90-300K,r_death,4.494803558686285
+2013,York Region,110.45483333333333,90-300K,r_death,2.6074006117130835
+2014,Northwestern,8.138033333333333,0-10K,r_death,8.847346410475915
+2014,Porcupine,8.6453,0-10K,r_death,6.940187153713578
+2014,Timiskaming,3.4419916666666666,0-10K,r_death,17.4317679444314
+2014,Algoma,11.621366666666667,10-13K,r_death,12.390969507315548
+2014,Chatham-Kent,10.582141666666667,10-13K,r_death,7.937901669243072
+2014,Haldimand-Norfolk,11.052075,10-13K,r_death,7.600382733559083
+2014,North Bay Parry Sound District,12.809408333333334,10-13K,r_death,14.98898270737199
+2014,Renfrew County and District,10.615033333333333,10-13K,r_death,9.043777535633426
+2014,Brant County,14.448033333333335,13-16K,r_death,4.983377207047787
+2014,Huron Perth,13.750316666666667,13-16K,r_death,4.363535870082992
+2014,Lambton,13.033458333333332,13-16K,r_death,7.365658257753283
+2014,Peterborough,13.995066666666666,13-16K,r_death,11.146785057591723
+2014,Thunder Bay District,15.502466666666665,13-16K,r_death,20.8998998008919
+2014,Grey Bruce,16.3497,16-19K,r_death,6.605625791298923
+2014,Haliburton,17.903591666666667,16-19K,r_death,6.702565732853417
+2014,Hastings Prince Edward,16.34365,16-19K,r_death,5.139610796853824
+2014,Leeds,16.914983333333335,16-19K,r_death,4.256581196749627
+2014,Eastern Ontario,20.480383333333336,19-30K,r_death,4.687412263605092
+2014,Kingston,20.058275,19-30K,r_death,5.982568291640233
+2014,Public Health Sudbury & Districts,19.997208333333333,19-30K,r_death,9.001256425376042
+2014,Southwestern,20.151558333333334,19-30K,r_death,5.359387011839861
+2014,Wellington-Dufferin-Guelph,28.1771,19-30K,r_death,3.4070220143307863
+2014,Middlesex-London,46.51391666666667,30-50K,r_death,3.3538349633711775
+2014,Niagara Region,44.778825,30-50K,r_death,9.379433247746006
+2014,Windsor-Essex County,40.29663333333333,30-50K,r_death,5.360249284679696
+2014,City of Hamilton Services,55.085325,50-90K,r_death,8.060222935963436
+2014,Durham Region Health Department,65.27755,50-90K,r_death,5.698743289231903
+2014,Halton Region,54.93951666666666,50-90K,r_death,2.6210641945339286
+2014,Region of Waterloo and Emergency Services,53.770041666666664,50-90K,r_death,4.909797199648813
+2014,Simcoe Muskoka District,54.167116666666665,50-90K,r_death,7.532245116732876
+2014,Ottawa,94.63589166666667,90-300K,r_death,3.804053553677265
+2014,Peel,141.48151666666666,90-300K,r_death,3.8167529775090765
+2014,Toronto,280.5395,90-300K,r_death,5.603488991746261
+2014,York Region,112.30521666666668,90-300K,r_death,2.457588420128302
+2015,Northwestern,8.137516666666667,0-10K,r_death,5.898605430403625
+2015,Porcupine,8.567125,0-10K,r_death,5.602813079066781
+2015,Timiskaming,3.4060583333333336,0-10K,r_death,7.046268046887041
+2015,Algoma,11.56235,10-13K,r_death,7.264959112983087
+2015,Chatham-Kent,10.551083333333333,10-13K,r_death,3.4119719144163714
+2015,Haldimand-Norfolk,11.08375,10-13K,r_death,11.909326717040713
+2015,North Bay Parry Sound District,12.791208333333334,10-13K,r_death,10.319587998267039
+2015,Renfrew County and District,10.620591666666668,10-13K,r_death,6.779283326180038
+2015,Brant County,14.568858333333335,13-16K,r_death,9.06042168712602
+2015,Huron Perth,13.766391666666665,13-16K,r_death,5.230128689011343
+2015,Lambton,12.9914,13-16K,r_death,10.1605677602106
+2015,Peterborough,14.053366666666665,13-16K,r_death,9.39276709495471
+2015,Thunder Bay District,15.425483333333334,13-16K,r_death,14.002802721470639
+2015,Grey Bruce,16.389375,16-19K,r_death,2.928726690310033
+2015,Haliburton,18.018808333333336,16-19K,r_death,7.325678677419011
+2015,Hastings Prince Edward,16.348958333333336,16-19K,r_death,3.6699585855367944
+2015,Leeds,16.9168,16-19K,r_death,4.965478104606072
+2015,Eastern Ontario,20.519191666666664,19-30K,r_death,1.7544550772183605
+2015,Kingston,20.177108333333333,19-30K,r_death,4.757867104346386
+2015,Public Health Sudbury & Districts,19.951533333333334,19-30K,r_death,16.84081089841048
+2015,Southwestern,20.238766666666667,19-30K,r_death,4.743372043421618
+2015,Wellington-Dufferin-Guelph,28.55965,19-30K,r_death,3.361385731267715
+2015,Middlesex-London,46.95014166666667,30-50K,r_death,6.38975707741031
+2015,Niagara Region,45.02784166666667,30-50K,r_death,9.594064116997243
+2015,Windsor-Essex County,40.4568,30-50K,r_death,7.1187043957999645
+2015,City of Hamilton Services,55.506483333333335,50-90K,r_death,9.944784227908512
+2015,Durham Region Health Department,66.15381666666666,50-90K,r_death,5.260467461061078
+2015,Halton Region,55.847033333333336,50-90K,r_death,3.223089737383842
+2015,Region of Waterloo and Emergency Services,54.230975,50-90K,r_death,5.0893423915022735
+2015,Simcoe Muskoka District,54.883775,50-90K,r_death,9.62032950539572
+2015,Ottawa,95.71863333333334,90-300K,r_death,4.262492952434548
+2015,Peel,143.8439666666667,90-300K,r_death,4.42145760255499
+2015,Toronto,282.94481666666667,90-300K,r_death,5.8103202573835215
+2015,York Region,113.79996666666668,90-300K,r_death,3.1634455663285195
+2016,Northwestern,8.1545,0-10K,r_death,7.357900545710956
+2016,Porcupine,8.506058333333334,0-10K,r_death,7.053795970910929
+2016,Timiskaming,3.3731166666666663,0-10K,r_death,10.672622253405605
+2016,Algoma,11.522633333333333,10-13K,r_death,15.621429129336756
+2016,Chatham-Kent,10.531275,10-13K,r_death,3.418389511241516
+2016,Haldimand-Norfolk,11.124975,10-13K,r_death,11.86519520268585
+2016,North Bay Parry Sound District,12.793075,10-13K,r_death,6.566052336908835
+2016,Renfrew County and District,10.649541666666668,10-13K,r_death,3.38042717018338
+2016,Brant County,14.722008333333335,13-16K,r_death,6.5208494538505555
+2016,Huron Perth,13.7944,13-16K,r_death,3.4796729107463897
+2016,Lambton,12.972425,13-16K,r_death,4.625195366325109
+2016,Peterborough,14.135675,13-16K,r_death,8.489159520150258
+2016,Thunder Bay District,15.372225,13-16K,r_death,10.928801783736576
+2016,Grey Bruce,16.450716666666665,16-19K,r_death,5.83561202500803
+2016,Haliburton,18.159225,16-19K,r_death,5.286569223080831
+2016,Hastings Prince Edward,16.386041666666667,16-19K,r_death,8.787967401116296
+2016,Leeds,16.9388,16-19K,r_death,4.959028974897867
+2016,Eastern Ontario,20.600733333333334,19-30K,r_death,3.4950212128370834
+2016,Kingston,20.362883333333333,19-30K,r_death,9.428920102179374
+2016,Public Health Sudbury & Districts,19.938266666666667,19-30K,r_death,10.231581481506248
+2016,Southwestern,20.346566666666664,19-30K,r_death,7.077361127266354
+2016,Wellington-Dufferin-Guelph,29.009441666666667,19-30K,r_death,5.791217974148072
+2016,Middlesex-London,47.582433333333334,30-50K,r_death,7.565817356965771
+2016,Niagara Region,45.37988333333333,30-50K,r_death,10.577374042022292
+2016,Windsor-Essex County,40.7926,30-50K,r_death,10.884327059319583
+2016,City of Hamilton Services,56.1069,50-90K,r_death,11.121626751789886
+2016,Durham Region Health Department,67.14431666666667,50-90K,r_death,7.32750029228088
+2016,Halton Region,56.935,50-90K,r_death,5.479933257223149
+2016,Region of Waterloo and Emergency Services,54.884883333333335,50-90K,r_death,8.30829861166994
+2016,Simcoe Muskoka District,55.68544166666666,50-90K,r_death,9.912824312398827
+2016,Ottawa,97.348075,90-300K,r_death,4.930760058686317
+2016,Peel,147.04285,90-300K,r_death,3.7540077603229265
+2016,Toronto,287.6881583333334,90-300K,r_death,7.758400668733351
+2016,York Region,115.72038333333333,90-300K,r_death,3.007248939001383
+2017,Northwestern,8.173725,0-10K,r_death,8.8087132855583
+2017,Porcupine,8.513541666666667,0-10K,r_death,2.819038296831029
+2017,Timiskaming,3.3549,0-10K,r_death,3.57685773048377
+2017,Algoma,11.502033333333333,10-13K,r_death,22.9524634774721
+2017,Chatham-Kent,10.537641666666667,10-13K,r_death,5.693873629219694
+2017,Haldimand-Norfolk,11.159516666666667,10-13K,r_death,10.753153885099564
+2017,North Bay Parry Sound District,12.8371,10-13K,r_death,8.413115111668523
+2017,Renfrew County and District,10.718933333333332,10-13K,r_death,5.597571897701265
+2017,Brant County,14.914233333333334,13-16K,r_death,20.11501317533363
+2017,Huron Perth,13.825933333333335,13-16K,r_death,4.339670860074546
+2017,Lambton,12.993091666666666,13-16K,r_death,6.464974015037479
+2017,Peterborough,14.244625,13-16K,r_death,13.478768307344
+2017,Thunder Bay District,15.395508333333334,13-16K,r_death,24.16289166591338
+2017,Grey Bruce,16.535791666666665,16-19K,r_death,7.982684026316653
+2017,Haliburton,18.325091666666665,16-19K,r_death,6.548398348166517
+2017,Hastings Prince Edward,16.45275,16-19K,r_death,5.8348908237224775
+2017,Leeds,16.996483333333334,16-19K,r_death,5.64822723131942
+2017,Eastern Ontario,20.730308333333333,19-30K,r_death,4.052038139005008
+2017,Kingston,20.637458333333335,19-30K,r_death,14.53667380713468
+2017,Public Health Sudbury & Districts,19.976933333333335,19-30K,r_death,20.423555166959225
+2017,Southwestern,20.489541666666664,19-30K,r_death,7.027975654246375
+2017,Wellington-Dufferin-Guelph,29.477725,19-30K,r_death,9.363002063422465
+2017,Middlesex-London,48.38520833333333,30-50K,r_death,7.688300057266124
+2017,Niagara Region,45.83335833333333,30-50K,r_death,19.374534886617337
+2017,Windsor-Essex County,41.213,30-50K,r_death,10.482129425181375
+2017,City of Hamilton Services,56.940925,50-90K,r_death,18.545536448520988
+2017,Durham Region Health Department,68.16741666666667,50-90K,r_death,10.210156611968817
+2017,Halton Region,58.205,50-90K,r_death,8.246714199811013
+2017,Region of Waterloo and Emergency Services,55.698175,50-90K,r_death,18.528434728785996
+2017,Simcoe Muskoka District,56.59744166666666,50-90K,r_death,17.17392114160637
+2017,Ottawa,99.52916666666667,90-300K,r_death,7.716331058734877
+2017,Peel,150.52103333333332,90-300K,r_death,6.457569274371622
+2017,Toronto,294.70903333333337,90-300K,r_death,12.54118327557203
+2017,York Region,117.94980833333332,90-300K,r_death,3.4590984569213306
+2018,Northwestern,8.18745,0-10K,r_death,13.190920249894656
+2018,Porcupine,8.524491666666668,0-10K,r_death,18.300211449558574
+2018,Timiskaming,3.339175,0-10K,r_death,10.781106111539527
+2018,Algoma,11.474675,10-13K,r_death,27.19031257965912
+2018,Chatham-Kent,10.540708333333333,10-13K,r_death,4.553773663218395
+2018,Haldimand-Norfolk,11.186116666666667,10-13K,r_death,11.800341792728188
+2018,North Bay Parry Sound District,12.880175,10-13K,r_death,13.043301042105407
+2018,Renfrew County and District,10.784258333333334,10-13K,r_death,5.563664940642649
+2018,Brant County,15.096058333333334,13-16K,r_death,17.48800873517204
+2018,Huron Perth,13.850875,13-16K,r_death,6.930970065068092
+2018,Lambton,13.008216666666668,13-16K,r_death,11.992420175453207
+2018,Peterborough,14.346091666666666,13-16K,r_death,22.584548288703488
+2018,Thunder Bay District,15.421483333333335,13-16K,r_death,34.23795160214808
+2018,Grey Bruce,16.617608333333333,16-19K,r_death,5.054879036443772
+2018,Haliburton,18.488583333333334,16-19K,r_death,19.47147564037266
+2018,Hastings Prince Edward,16.510158333333333,16-19K,r_death,13.809679798144476
+2018,Leeds,17.054458333333333,16-19K,r_death,6.332654950929253
+2018,Eastern Ontario,20.852783333333335,19-30K,r_death,3.4527764878709233
+2018,Kingston,20.889341666666667,19-30K,r_death,13.212479569924216
+2018,Public Health Sudbury & Districts,20.009566666666665,19-30K,r_death,19.190820390913014
+2018,Southwestern,20.629683333333336,19-30K,r_death,13.37878025272645
+2018,Wellington-Dufferin-Guelph,29.915,19-30K,r_death,10.429550392779543
+2018,Middlesex-London,49.10368333333333,30-50K,r_death,15.151612862714645
+2018,Niagara Region,46.24215,30-50K,r_death,23.095811937809984
+2018,Windsor-Essex County,41.55670833333333,30-50K,r_death,14.726864194609576
+2018,City of Hamilton Services,57.7194,50-90K,r_death,25.57199139284192
+2018,Durham Region Health Department,69.158725,50-90K,r_death,10.4108339186415
+2018,Halton Region,59.44095,50-90K,r_death,8.882765164419478
+2018,Region of Waterloo and Emergency Services,56.45520833333334,50-90K,r_death,12.966031330147423
+2018,Simcoe Muskoka District,57.484233333333336,50-90K,r_death,15.865219854487636
+2018,Ottawa,101.50490833333333,90-300K,r_death,9.694112493246427
+2018,Peel,153.738625,90-300K,r_death,8.50794652287283
+2018,Toronto,300.76825833333334,90-300K,r_death,11.969348161767181
+2018,York Region,120.097125,90-300K,r_death,4.196603374144052
+2019,Northwestern,8.195541666666667,0-10K,r_death,13.177896518940683
+2019,Porcupine,8.528525,0-10K,r_death,30.954942384527218
+2019,Timiskaming,3.324225,0-10K,r_death,18.04931976626131
+2019,Algoma,11.44025,10-13K,r_death,17.83177815170123
+2019,Chatham-Kent,10.538083333333333,10-13K,r_death,6.832361988660177
+2019,Haldimand-Norfolk,11.208633333333333,10-13K,r_death,11.776636461775
+2019,North Bay Parry Sound District,12.916075,10-13K,r_death,17.652421498017006
+2019,Renfrew County and District,10.839033333333333,10-13K,r_death,4.4284391904567135
+2019,Brant County,15.265266666666665,13-16K,r_death,32.23002982806284
+2019,Huron Perth,13.870125,13-16K,r_death,0.8651688431070376
+2019,Lambton,13.014266666666668,13-16K,r_death,19.363365332404438
+2019,Peterborough,14.438308333333334,13-16K,r_death,24.102546639524366
+2019,Thunder Bay District,15.445558333333334,13-16K,r_death,29.523050585740126
+2019,Grey Bruce,16.693666666666665,16-19K,r_death,11.501367784189613
+2019,Haliburton,18.644708333333334,16-19K,r_death,12.872285031722583
+2019,Hastings Prince Edward,16.555658333333334,16-19K,r_death,11.597243439931665
+2019,Leeds,17.108183333333333,16-19K,r_death,4.208512300643649
+2019,Eastern Ontario,20.9619,19-30K,r_death,4.007270333319021
+2019,Kingston,21.11225,19-30K,r_death,17.620102073440776
+2019,Public Health Sudbury & Districts,20.032716666666666,19-30K,r_death,33.54512576510259
+2019,Southwestern,20.76355,19-30K,r_death,9.824909516917868
+2019,Wellington-Dufferin-Guelph,30.327033333333333,19-30K,r_death,13.453343606529268
+2019,Middlesex-London,49.747275,30-50K,r_death,14.473154559722115
+2019,Niagara Region,46.60610833333333,30-50K,r_death,22.91545117565956
+2019,Windsor-Essex County,41.84176666666667,30-50K,r_death,13.479354361232355
+2019,City of Hamilton Services,58.441875,50-90K,r_death,21.354550996182102
+2019,Durham Region Health Department,70.134,50-90K,r_death,12.319274531610915
+2019,Halton Region,60.65196666666666,50-90K,r_death,5.935504152379781
+2019,Region of Waterloo and Emergency Services,57.163425,50-90K,r_death,13.015315299949226
+2019,Simcoe Muskoka District,58.33450833333334,50-90K,r_death,17.896782364812363
+2019,Ottawa,103.27530833333334,90-300K,r_death,7.552628141108591
+2019,Peel,156.77765,90-300K,r_death,8.572650502160226
+2019,Toronto,306.05140833333337,90-300K,r_death,11.488266037222667
+2019,York Region,122.21144166666667,90-300K,r_death,6.087809699760108
+2020,Northwestern,8.1985,0-10K,r_death,21.46734158687565
+2020,Porcupine,8.5271,0-10K,r_death,45.03289512260909
+2020,Timiskaming,3.3146,0-10K,r_death,14.481385385868581
+2020,Algoma,11.413055555555557,10-13K,r_death,42.05709835227687
+2020,Chatham-Kent,10.533433333333333,10-13K,r_death,19.746647974861
+2020,Haldimand-Norfolk,11.221311111111111,10-13K,r_death,18.5361583811755
+2020,North Bay Parry Sound District,12.93651111111111,10-13K,r_death,42.05152342293904
+2020,Renfrew County and District,10.871233333333333,10-13K,r_death,7.358870658649586
+2020,Brant County,15.374777777777778,13-16K,r_death,28.097967088955215
+2020,Huron Perth,13.880211111111112,13-16K,r_death,8.069041537152412
+2020,Lambton,13.014044444444444,13-16K,r_death,30.7360253538058
+2020,Peterborough,14.496,13-16K,r_death,34.21633554083885
+2020,Thunder Bay District,15.4589,13-16K,r_death,35.190084676141254
+2020,Grey Bruce,16.742344444444445,16-19K,r_death,12.423588625248952
+2020,Haliburton,18.746688888888887,16-19K,r_death,18.77664915048702
+2020,Hastings Prince Edward,16.57988888888889,16-19K,r_death,13.510343857015528
+2020,Leeds,17.142233333333333,16-19K,r_death,12.133774867918804
+2020,Eastern Ontario,21.028755555555556,19-30K,r_death,8.369491933796473
+2020,Kingston,21.24888888888889,19-30K,r_death,22.589416440075297
+2020,Public Health Sudbury & Districts,20.043133333333333,19-30K,r_death,56.67776495358344
+2020,Southwestern,20.851066666666664,19-30K,r_death,13.044896184367868
+2020,Wellington-Dufferin-Guelph,30.59433333333333,19-30K,r_death,7.8445899567458035
+2020,Middlesex-London,50.14946666666667,30-50K,r_death,22.014192241326594
+2020,Niagara Region,46.830866666666665,30-50K,r_death,37.582050584870665
+2020,Windsor-Essex County,42.01037777777778,30-50K,r_death,19.42377200977325
+2020,City of Hamilton Services,58.908522222222224,50-90K,r_death,23.90146530392603
+2020,Durham Region Health Department,70.79057777777777,50-90K,r_death,15.14325823650103
+2020,Halton Region,61.46675555555555,50-90K,r_death,5.726672846460092
+2020,Region of Waterloo and Emergency Services,57.62184444444445,50-90K,r_death,18.881728110057026
+2020,Simcoe Muskoka District,58.89331111111111,50-90K,r_death,24.994349480925774
+2020,Ottawa,104.3778,90-300K,r_death,13.029590583438242
+2020,Peel,158.76446666666666,90-300K,r_death,10.884047521968602
+2020,Toronto,309.29504444444444,90-300K,r_death,17.53665342340866
+2020,York Region,123.64417777777777,90-300K,r_death,5.693757786681064
