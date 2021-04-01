@@ -1,6 +1,7 @@
 pckgs <- c('dplyr','tidyr','readr','magrittr','stringr','forcats','data.table','broom',
            'ggplot2','cowplot','ggmap','ggh4x','ggrepel',
-           'sf', 'rgdal','maptools','cartogram')
+           'sf', 'rgdal','maptools','cartogram','makeTilegram')
+# devtools::install_git("https://gitlab.com/lajh87/makeTilegram")
 for (pp in pckgs) { library(pp,character.only=T,quietly = T,warn.conflicts = F)}
 
 dir_base <- getwd()
@@ -59,24 +60,16 @@ dat_demo <- df_census %>%
   dplyr::select(-area_km2) %>% 
   left_join(dat_demo)
 
-
-dat_demo %>% 
-  pivot_longer(!c(year,PHU,n_death,r_death),names_to='cn') %>% 
-  arrange(year,cn)
-
-
-
 # Merge census
 shp_phu <- shp_phu %>% left_join(dat_demo,'PHU')
 
-# Merge on the mortatily data
 
+# dat_demo %>% 
+#   pivot_longer(!c(year,PHU,n_death,r_death),names_to='cn') %>% 
+#   arrange(year,cn)
 
-
-# Get the tabular form of the data
-shp_phu %>% dplyr::select(-geometry) %>% as_tibble
-  
-  
+# # Get the tabular form of the data
+# shp_phu %>% dplyr::select(-geometry) %>% as_tibble
 
 
 
@@ -92,22 +85,30 @@ shp_phu %>% dplyr::select(-geometry) %>% as_tibble
 
 # (i) Geofaceting
 #   https://ryanhafen.com/blog/geofacet/
-# (ii)
+# (ii) Tilegrams
+#   https://lajh87.gitlab.io/makeTilegram/index.html
+#   https://github.com/srkobakian/sugarbag
+# (iii) Hexbins
+#   https://rstudio-pubs-static.s3.amazonaws.com/342278_51068843182b41ad9e00dfcc35e65247.html
 
-
-ggplot(st_transform(shp_phu,crs=4326),aes(fill=income)) + theme_bw() +
+# st_transform(shp_phu,crs=4326)
+ggplot(sp) + theme_bw() +
   geom_sf() + scale_fill_viridis_c() + 
   labs(x='Longitude',y='Latitude')
+# ggrepel::geom_text_repel(data = shp_cartogram,
+#                          aes(label = PHU, geometry = geometry),
+#                          stat = "sf_coordinates",
+#                          min.segment.length = 0,size=3,max.overlaps = 50)
 
-shp_cartogram <- cartogram_cont(st_transform(shp_phu, crs = 3978),"poverty_child", itermax = 5)
 
-ggplot(shp_cartogram,aes(fill=poverty_child)) + theme_bw() +
-  geom_sf() + scale_fill_viridis_c() + 
-  labs(x='Longitude',y='Latitude') + 
-  ggrepel::geom_text_repel(data = shp_cartogram,
-    aes(label = PHU, geometry = geometry),
-    stat = "sf_coordinates",
-    min.segment.length = 0,size=3,max.overlaps = 50)
+# shp_cartogram <- cartogram_cont(st_transform(shp_phu, crs = 3978),"poverty_child", itermax = 5)
+# 
+# ggplot(shp_cartogram,aes(fill=poverty_child)) + theme_bw() +
+#   geom_sf() + scale_fill_viridis_c() + 
+#   labs(x='Longitude',y='Latitude')
+
+
+
 
 
 
